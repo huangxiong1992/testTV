@@ -14,10 +14,7 @@ CCTV-12,http://tvpull.careryun.com/tv/cctv12.m3u8
 CCTV-13,http://tvpull.careryun.com/tv/cctv13.m3u8
 CCTV-14,http://tvpull.careryun.com/tv/cctv14.m3u8
 CCTV-15,http://tvpull.careryun.com/tv/cctv15.m3u8
-CCTV-16,
 CCTV-17,http://tvpull.careryun.com/tv/cctv17.m3u8
-
-
 CGNT记录https://0472.org/hls/cgtnd.m3u8
 CGNT英语https://0472.org/hls/cgtnd.m3u8
 CGNT俄语https://0472.org/hls/cgtne.m3u8
@@ -30,18 +27,11 @@ CGNT阿拉伯语https://0472.org/hls/cgtna.m3u8
 北京卫视,http://tvpull.careryun.com/tv/cn_bjws.m3u8
 天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8
 河北卫视,http://tvpull.careryun.com/tv/cn_hbws.m3u8
-山西卫视,
-辽宁卫视,
 吉林卫视,http://tvpull.careryun.com/tv/jlws.m3u8
 黑龙江卫视,http://tvpull.careryun.com/tv/cn_hljws.m3u8
-内蒙古卫视,
-上海卫视,
-江苏卫视,
 浙江卫视,http://tvpull.careryun.com/tv/cn_zjws.m3u8
 安徽卫视,http://tvpull.careryun.com/tv/ahws.m3u8
-福建卫视,
 江西卫视,http://tvpull.careryun.com/tv/jxws.m3u8
-山东卫视,
 河南卫视,http://tvpull.careryun.com/tv/cn_hnws.m3u8
 湖北卫视,http://tvpull.careryun.com/tv/hbws.m3u8
 湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
@@ -50,12 +40,8 @@ CGNT阿拉伯语https://0472.org/hls/cgtna.m3u8
 重庆卫视,http://tvpull.careryun.com/tv/cn_cqws.m3u8
 四川卫视,http://tvpull.careryun.com/tv/cn_ahws.m3u8
 贵州卫视,http://tvpull.careryun.com/tv/cn_gzws.m3u8
-云南卫视,
-厦门卫视,
-西藏卫视,
 陕西卫视,http://tvpull.careryun.com/tv/sxws.m3u8
 甘肃卫视,http://tvpull.careryun.com/tv/cn_gsws.m3u8
-宁夏卫视,
 青海卫视,http://tvpull.careryun.com/tv/qhws.m3u8
 新疆卫视,http://tvpull.careryun.com/tv/cn_xjws.m3u8
 
