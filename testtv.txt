@@ -1,35 +1,33 @@
-央视频道,#genre#
-CCTV-1,http://tvpull.careryun.com/tv/cctv1.m3u8
-CCTV-2,https://tvpull.careryun.com/tv/cctv2.m3u8
-CCTV-3,http://tvpull.careryun.com/tv/cctv3.m3u8
-CCTV-4,https://tvpull.careryun.com/tv/cctv4.m3u8
-CCTV-5,http://tvpull.careryun.com/tv/cctv5.m3u8
-CCTV-6,http://tvpull.careryun.com/tv/cctv6.m3u8
-CCTV-7,http://tvpull.careryun.com/tv/cctv7.m3u8
-CCTV-8,http://tvpull.careryun.com/tv/cctv8.m3u8
-CCTV-9,http://tvpull.careryun.com/tv/cctv9.m3u8
-CCTV-10,http://tvpull.careryun.com/tv/cctv10.m3u8
-CCTV-11,http://tvpull.careryun.com/tv/cctv11.m3u8
-CCTV-12,http://tvpull.careryun.com/tv/cctv12.m3u8
-CCTV-13,http://tvpull.careryun.com/tv/cctv13.m3u8
-CCTV-14,http://tvpull.careryun.com/tv/cctv14.m3u8
-CCTV-15,http://tvpull.careryun.com/tv/cctv15.m3u8
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17,http://tvpull.careryun.com/tv/cctv17.m3u8
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CGNT,纪录,https://0472.org/hls/cgtnd.m3u8
+央视卫卫,#genre#
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8#http://220.164.192.48:50085/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8#http://61.136.67.238:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://61.138.128.226:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8#http://220.164.192.48:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0#http://61.138.128.226:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8#http://61.136.67.238:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0#http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-CGNT,英语,https://0472.org/hls/cgtnd.m3u8
-CGNT,俄语,https://0472.org/hls/cgtne.m3u8
-CGNT,法语,https://0472.org/hls/cgtnf.m3u8
-CGNT,西班牙语,https://0472.org/hls/cgtnx.m3u8
-CGNT,阿拉伯语,https://0472.org/hls/cgtna.m3u8
+CGNT英语,https://0472.org/hls/cgtnd.m3u8
+CGNT俄语,https://0472.org/hls/cgtne.m3u8
+CGNT法语,https://0472.org/hls/cgtnf.m3u8
+CGNT西班牙语,https://0472.org/hls/cgtnx.m3u8
+CGNT阿拉伯语,https://0472.org/hls/cgtna.m3u8
+央视台球,http://183.11.239.36:808/hls/73/index.m3u8
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 直播中国.https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
-卫视频道,#genre#
 北京卫视,http://tvpull.careryun.com/tv/cn_bjws.m3u8
 天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8
 河南卫视,http://tvpull.careryun.com/tv/cn_hnws.m3u8
@@ -37,11 +35,12 @@ CGNT,阿拉伯语,https://0472.org/hls/cgtna.m3u8
 山西卫视,http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 黑龙江卫视,http://tvpull.careryun.com/tv/cn_hljws.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://61.138.128.226:19901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://tvpull.careryun.com/tv/jlws.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-浙江卫视,http://tvpull.careryun.com/tv/cn_zjws.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8
 安徽卫视,http://tvpull.careryun.com/tv/ahws.m3u8
-江西卫视,http://tvpull.careryun.com/tv/jxws.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 湖南卫视,http://tvpull.careryun.com/tv/cn_hunws.m3u8
 湖北卫视,http://tvpull.careryun.com/tv/hbws.m3u8
@@ -58,8 +57,7 @@ CGNT,阿拉伯语,https://0472.org/hls/cgtna.m3u8
 青海卫视,http://tvpull.careryun.com/tv/qhws.m3u8
 东方卫视,http://116.77.32.59:8277/streams/d/dfws/playlist.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-海南卫视,http://123.182.60.29:9002/hls/38/index.m3u8
-厦门卫视,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 新疆卫视,http://tvpull.careryun.com/tv/cn_xjws.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
@@ -311,11 +309,23 @@ CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-152
 睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225965/1.m3u8?zheild
+黑龙江新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江都市,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225969/1.m3u8
+黑龙江影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225973/1.m3u8
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+鹤岗新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+双鸭山公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
+大庆公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+大庆新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 
 
 少儿频道,#genre#
-CCTV-14,http://tvpull.careryun.com/tv/cctv14.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8#http://61.136.67.238:50085/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0#http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
+黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 猫和老鼠,http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
@@ -382,7 +392,14 @@ CCTV-5赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index
 
 
 
-历年春晚,#genre#	
+历年春晚,#genre#
+央视春晚回看,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+江苏卫视回看,https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
+山东春晚回看,https://svipsvip.ffzyread1.com/20250129/35452_f20fd1e8/index.m3u8
+安徽春晚回看,https://svipsvip.ffzyread1.com/20250129/35454_7487d340/index.m3u8
+川渝春晚回看,https://svipsvip.ffzyread1.com/20250129/35455_18491156/index.m3u8
+辽宁春晚回看1,https://svipsvip.ffzyread1.com/20250129/35456_a631032a/index.m3u8
+辽宁春晚回看2,https://svipsvip.ffzyread1.com/20250129/35457_6898fca8/index.m3u8	
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4	
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4	
@@ -443,7 +460,19 @@ NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBSworld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+DaJLah,http://91.134.145.75:10001/Dijlah/index.m3u8
+mbc,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+HOBE,http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+日语新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+日经新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+法时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
+
+
+
+
 
 测试02_2025,#genre#
 【真實非劇本】哥哥亂倫18親妹妹,https://askzycdn.com/20230222/L3suKyHG/1000kb/hls/index.m3u8
@@ -462,6 +491,7 @@ KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3
 【醫院監控泄密】男醫生做B超陰超磨蹭溫柔插入,https://askzycdn.com/20230216/Opg7h1cq/1000kb/hls/index.m3u8
 【亂倫被敲詐】玩偶少年高考完母子賓館亂倫❤️被有心人威脅了,https://askzycdn.com/20230413/h5CHT6Le/1000kb/hls/index.m3u8
 【毒圈真亂】用吸食麻古控制幾位女友-邊吸邊做愛,https://askzycdn.com/20230105/m7QeZVH3/1000kb/hls/index.m3u8
+
 被黑人爆操之頂到了子宮,https://t21.cdn2020.com/video/m3u8/2023/05/09/6f502529/index.m3u8
 引誘媳婦首次嘗試聖水情趣羞辱全過程,https://t22a.cdn2020.com/video/m3u8/2023/09/03/06c94074/index.m3u8
 瘦猴探花06-29沙發操人妻,https://t23a.cdn2020.com/video/m3u8/2023/12/10/bcc664bc/index.m3u8
@@ -488,6 +518,7 @@ KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3
 【極品媚黑集中營】沉迷黑人大屌的爆乳女教師,https://askzycdn.com/20221008/4IUXX2vx/1000kb/hls/index.m3u8
 俄羅斯騷貨約炮友回家瘋狂取精,https://askzycdn.com/20230126/oBEL7wKR/1000kb/hls/index.m3u8
 黑人留學生找綠帽__美味的晚餐,https://askzycdn.com/20221008/ELDgMHX8/1000kb/hls/index.m3u8
+
 社會經驗不足的女大學生被冒牌攝影師導演套路了賓館私拍夾,https://vip5.bobolj.com/20210730/hl0jH34r/800kb/hls/index.m3u8
 社會青年出租屋強上在校學生妹,拚命反抗,被操的一直哭,太慘了,https://sy4.3sybf.com/20200917/hoSTUQxS/2000kb/hls/index.m3u8
 台灣新婚夫妻結婚典禮視頻和洞房啪啪啪視頻流出,新娘長相一般,貴在真實,https://sy4.3sybf.com/20200917/KpeCqq1J/2000kb/hls/index.m3u8
@@ -1885,6 +1916,7 @@ EDmosaic0417打牌不如打砲吧E奶蝶硬尬4猛男,https://t25.cdn2020.com/vi
 爱豆传媒.ID5398.慧敏.欲女洗车场,https://t25.cdn2020.com/video/m3u8/2024/06/07/1890c230/index.m3u8
 爱豆传媒.IDG5444.沈佳吟.不良少女与班主任不伦激情,https://t25.cdn2020.com/video/m3u8/2024/06/07/a30703b2/index.m3u8
 星空无限传媒.XKVP031.宋可.意外捡到醉酒老师带回家爽操,https://t25.cdn2020.com/video/m3u8/2024/06/07/16187bf5/index.m3u8
+VIP国产_6868,#genre#
 性视界xsj134八艳迎新之刺客拦路玩具屌自焚,https://t21.cdn2020.com/video/m3u8/2023/01/28/e708058b/index.m3u8
 性视界xsj135八艳迎新之穴巡知音江湖骗操,https://t21.cdn2020.com/video/m3u8/2023/01/28/1bf4a0b1/index.m3u8
 性视界xsj136八艳迎新之孤注一掷以身易物,https://t21.cdn2020.com/video/m3u8/2023/01/29/233da01b/index.m3u8
@@ -2078,6 +2110,7 @@ EDmosaic0417打牌不如打砲吧E奶蝶硬尬4猛男,https://t25.cdn2020.com/vi
 四大美人之苏小小,https://vod1.ttbfp2.com/20220503/h7u1f3Gb/index.m3u8
 青缕十三房,https://vod1.ttbfp2.com/20210929/JSFKe4Rq/index.m3u8
 风流六魔女,https://vod1.ttbfp2.com/20210929/ew5B03YF/index.m3u8
+VIP激情区_6868,#genre#
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆2,https://vip4.ddyunbo.com/20210220/9CcKySuz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
@@ -2221,6 +2254,7 @@ SM系列25,https://m3u8.47cdn.com/newhd/202211/63745e47d287231edf828882/hls/inde
 欧美系列23,https://m3u8.49cdn.com/newhd/202210/63503a93b782f01ea9febb93/hls/index.m3u8
 欧美系列24,https://m3u8.49cdn.com/newhd/202210/63503a93b782f01ea9febb90/hls/index.m3u8
 欧美系列25,https://m3u8.48cdn.com/newhd/202210/63503a93b782f01ea9febb91/hls/index.m3u8
+VIP精品推荐_6868,#genre#
 【野战正规军】三男两女多人群P,https://vip1.slbfsl.com/20221129/kXwacROr/index.m3u8
 【祸国殃民的表姐】妹子轮番上阵1,https://vip1.slbfsl.com/20221129/A1u66YER/index.m3u8
 【雀儿漫天飞】约了个大长腿妹子,https://vip1.slbfsl.com/20221129/7LWdKPhS/index.m3u8
@@ -2788,6 +2822,7 @@ pondo613七濑,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
 pondo618水谷,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
 pondo764杏奈,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 pondo793杏奈,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+VIP中文字幕_6868,#genre#
 BLD-002,https://vip2.slbfsl.com/20230318/JCFWjTd5/index.m3u8
 BLD-002,https://aosikazy12.com/20221019/rDjQ3zZi/index.m3u8
 CHN-180,https://vip2.slbfsl.com/20230323/uM352Nib/index.m3u8
@@ -3017,6 +3052,7 @@ NGOD-107,https://vip2.slbfsl.com/20230414/QywMgVpv/index.m3u8
 妹に欲望剥き出しでハメまくった中出し記録,https://vip2.slbfsl.com/20230420/bIRLVu8B/index.m3u8
 美乳の彼女が巨漢センパイに圧迫固定で寝取られ中出しされた時の話です,https://vip2.slbfsl.com/20230420/71E2YikH/index.m3u8
 妹に昔もらったキス券を毎日使っています,https://vip2.slbfsl.com/20230420/OC7T9sAZ/index.m3u8
+VIP刺激彩蛋_6868,#genre#
 恶魔美女1,https://stream4k.embeddrive.net/playlists/d421cfa8-864e-464b-8778-a600a13344ba/cf.m3u8
 一本道_1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 一本道_2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
@@ -3142,6 +3178,7 @@ NGOD-107,https://vip2.slbfsl.com/20230414/QywMgVpv/index.m3u8
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 一本道_406,https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1
+VIP王者解说_6868,#genre#
 1,https://cdn1.hongtaocdn3.com/video/m3u8/202401/29/f863b878eb7b/f863b878eb7b.mp4
 2,https://cdn1.hongtaocdn3.com/video/m3u8/202401/29/f6f0c80c9add/f6f0c80c9add.mp4
 3,https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/4e31a47ff632/4e31a47ff632.mp4
@@ -3174,6 +3211,8 @@ NGOD-107,https://vip2.slbfsl.com/20230414/QywMgVpv/index.m3u8
 29,https://cdn1.hongtaocdn3.com/video/m3u8/202308/09/8a7879243eb3/8a7879243eb3.mp4
 30,https://cdn1.hongtaocdn3.com/video/m3u8/202306/28/e4a0290b33da/e4a0290b33da.mp4
 31,https://cdn1.hongtaocdn3.com/video/m3u8/202312/11/7d8238b62eb8/7d8238b62eb8.mp4
+
+
 12906,https://t25.cdn2020.com/video/m3u8/2024/06/29/16853245/index.m3u8
 12904,https://t25.cdn2020.com/video/m3u8/2024/06/29/51482f40/index.m3u8
 12905,https://t25.cdn2020.com/video/m3u8/2024/06/29/16ffc0f1/index.m3u8
@@ -3275,6 +3314,7 @@ NGOD-107,https://vip2.slbfsl.com/20230414/QywMgVpv/index.m3u8
 41370,https://player.huangguazyw.com/20240801/ymTplfI0/index.m3u8
 41369,https://lsbbf2.com/20240802/aPMvMKT3/index.m3u8
 41368,https://vip7.ljbfbf.com/20240803/l6XURR8K/index.m3u8
+
 41130,https://lsbbf2.com/20240803/fgj8kIDV/index.m3u8
 41128,https://vod3.ttbfp5.com/20240803/CdVYiHSY/index.m3u8
 41127,https://jkunbf.com/20240803/Scbl7Tms/index.m3u8
@@ -4835,6 +4875,8 @@ DYTM008抖音旅行射第8期贵州侗族民族风,https://t11.cdn2020.com:12336
 人妻堕落之路-欧妮,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/ee2201d6/index.m3u8
 果冻传媒少女的悔悟-潘甜甜,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/520a11da/index.m3u8
 天美传媒之色情公寓关谷神奇入贼窟-花语柔,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8
+
+
 女领导好色,https://0yefiks35y.motorjn.com/20230116/cptFN2Nl/index.m3u8
 体验貂蝉,https://0yefiks35y.motorjn.com/20230112/AuVZP5ex/index.m3u8
 妮可口,https://0yefiks35y.motorjn.com/20230116/J3ycCpX8/index.m3u8
@@ -4878,6 +4920,7 @@ JK萝莉白虎,https://0yefiks35y.motorjn.com/20220907/xpSbp7eC/index.m3u8
 打工地方和人气,https://0yefiks35y.motorjn.com/20210908/niMxlGrg/index.m3u8?300
 我的女友被爸爸,https://0yefiks35y.motorjn.com/20210911/wLwa2lwq/index.m3u8?300
 27,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/889f0529/index.m3u8
+
 星空传媒民国旗袍系列2-无双,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5df8a4e6/index.m3u8
 少年阿宾第二季篇章五寒假开始,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8ce1afc0/index.m3u8
 高颜值女神沈樵度剧情我的漂亮后妈,https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
@@ -4920,6 +4963,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 一個大巴西熟女遇到一個大怪物公雞!!,http://13216.vod.redtraffic.xyz/ph5c0573a9a725d/play.m3u8
 一個好步驟媽媽很難找到,http://10238.vod.adultiptv.net/ph59d1e7ff87ae6/play.m3u8
 一個穆斯林婦女來他媽的和吸吮,http://12204.vod.redtraffic.xyz/ph56933d2a816d6/play.m3u8
+
 单亲爸爸为儿子找妈妈竟硬上极品女老师,https://t21.cdn2020.com/video/m3u8/2023/03/01/f12dbf34/index.m3u8
 单身哥哥偷拿妹妹内衣打飞机,https://t21.cdn2020.com/video/m3u8/2023/02/21/baaaa3f6/index.m3u8
 发现女主管的秘密兼差,https://t21.cdn2020.com/video/m3u8/2023/01/20/12dc6dce/index.m3u8
@@ -5193,6 +5237,7 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 精东影业JD140欢乐小丑的性幻想02,https://t21.cdn2020.com/video/m3u8/2023/04/09/320b3f96/index.m3u8
 精东影业JD141冲绳旅行上集,https://t21.cdn2020.com/video/m3u8/2023/04/09/5bc70b69/index.m3u8
 精东影业JD142超级电脑工具人第一集,https://t21.cdn2020.com/video/m3u8/2023/04/18/23f91fd4/index.m3u8
+
 巨屌狂插白丝无毛骚穴女友-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/27/5dc2a051/index.m3u8
 巨屌猛插混血女神骚肉穴-桶主任,https://t21.cdn2020.com/video/m3u8/2023/01/29/37481460/index.m3u8
 巨乳嫦娥大战达尔,https://t21.cdn2020.com/video/m3u8/2023/04/21/5bf06d89/index.m3u8
@@ -5549,6 +5594,8 @@ sawy326爸妈没回家弟弟偷看姐姐换衣服,https://t21.cdn2020.com/video/
 小姨子和姐夫01-26内射小姨子,https://t6s.cdn2020.com/video/m3u8/2021/01/26/cf263f40/index.m3u8
 小姨子和姐夫02-26小姨子硬上姐夫,https://t6s.cdn2020.com/video/m3u8/2021/02/27/9add4c41/index.m3u8
 小姨子和姐夫05-09新小姨子上播,https://t7.cdn2020.com/video/m3u8/2021/05/10/98761a2e/index.m3u8
+
+
 SA国际传媒SAQP001外送员复仇送上比萨屌打,https://t21.cdn2020.com/video/m3u8/2023/01/24/15830caa/index.m3u8
 SA国际传媒SAQP019与青梅竹马激情相遇,https://t21.cdn2020.com/video/m3u8/2023/03/12/524487a7/index.m3u8
 SA国际传媒SAT0056玩大老二输了脱一件,https://t21.cdn2020.com/video/m3u8/2023/01/20/7b288399/index.m3u8
@@ -5911,14 +5958,19 @@ AI明星换脸迪丽热-巴佟丽娅双人一起为老板服务随便中出,http
 清纯高校女大学生带闺蜜一起服务金主爸爸双视角超清大肉棒抽插蜜穴,https://cdn-m.asujp.com:59888/f/data7/3EAFFA4D7411A235/8D2D89C274C2F788/play.m3u8?_KS=b26fdd99d1547876f03f5096d4badb6d&_KE=1705716100
 户外女大神性感小猫咪户外给环卫大爷送温暖大爷哪受得了啊秒射,https://cdn-m.asujp.com:59888/f/data7/3EAFFA4D7411A235/F58785DD1F4C8106/play.m3u8?_KS=ee7d6737c87d8a458516e893bac54c6a&_KE=1705716105
 年度最佳外围探花西门庆TP3k元约操气质反差美女校花上下粉嫩绝对完美型性伴侣,https://cdn-m.asujp.com:59888/f/data7/3EAFFA4D7411A235/016824FF75AB68AA/play.m3u8?_KS=371c279b5ff164923fa231c45f210c10&_KE=1705712440
+
 极品长腿牛仔裙女友两人操到疲惫不堪秒入睡 ,https://public1.kakoaction.com/newhd/202311/654cdcf837926f1bd8c41307/hls/index.m3u8
 真正国内大神出品花样百出大合集之客厅SP,https://public1.kakoaction.com/newhd/202312/6578e96537926f1bd8c4e293/hls/index.m3u8
 高清画质高校女神+模特+空姐+网红应有尽有1 (6),https://public1.kakoaction.com/newhd/202312/6578e96537926f1bd8c4e258/hls/index.m3u8
 嫩大波妹和乡下!帅锅到树林野战啪!啪啪,https://public1.kakoaction.com/newhd/202310/651f9b4537926f1bd8c356cf/hls/index.m3u8
 大鸡巴用没长熟的苞米玩乳交插逼逼摩擦大鸡巴-主动上位抽插浪荡呻吟不止真骚,https://m3u8.46cdn.com/newhd/202310/651f9b4537926f1bd8c35777/hls/index.m3u8
+2024.2.8,
 人很美逼又嫩又很会做爱的女大学生,https://z100.cdn2020.com/video/m3u8/2019/12/06/eb50e6f3/index.m3u8
 网吧操妹子,https://t7.cdn2020.com/video/m3u8/2021/06/14/0bd46fc2/index.m3u8
 身体火辣的车模被无套,https://t6s.cdn2020.com/video/m3u8/2021/02/07/a9fbd776/index.m3u8
+
+
+
 MCY-0182漂亮看护的肉穴治疗-韩棠,https://t21.cdn2020.com/video/m3u8/2023/04/21/f3a1a754/index.m3u8
 红斯灯影像RS-029初恋之晴道与野英的性爱特辑,https://t21.cdn2020.com/video/m3u8/2023/04/21/f19f3ce6/index.m3u8
 DASS-127 和母亲的造人SEX-森泽佳奈,https://t21.cdn2020.com/video/m3u8/2023/04/21/e9015bb9/index.m3u8
@@ -5960,6 +6012,7 @@ IPZZ-023 本该温柔给处男弟弟-明里紬,https://t21.cdn2020.com/video/m3u
 加勒比探花,https://public1.kakoaction.com/newhd/202104/607f3904f109253e1825513c/m3u8/index.m3u8
 太子探花极品之回归作空姐制服,https://public1.kakoaction.com/newhd/202104/607f3904f109253e1825513f/m3u8/index.m3u8
 叶总探花叫个老鸡还翻车把小年轻吓得够呛,https://public1.kakoaction.com/newhd/202104/607f3904f109253e1825513d/m3u8/index.m3u8
+2024.1.21,
 裔混血女大战白!黑猛男被肉棒轮干!口爆,https://public1.kakoaction.com/newhd/202310/651f9b4537926f1bd8c35709/hls/index.m3u8
 精品绝版会所独家jvid女神雅捷安妮s▌金瓶梅s▌双凤翻云覆雨情欲大爆发,https://m3u8.38cdn.com/newhd/202310/651f9b4537926f1bd8c35704/hls/index.m3u8
 约炮大神m先生郑州酒店约炮性感情趣内衣女网友后入双镜头拍摄,https://m3u8.38cdn.com/newhd/202310/651f9b4537926f1bd8c35705/hls/index.m3u8
@@ -5974,6 +6027,7 @@ IPZZ-023 本该温柔给处男弟弟-明里紬,https://t21.cdn2020.com/video/m3u
 回前男友家收!东西看到他我忍不!住就https://public1.kakoaction.com/newhd/202310/651f9b4537926f1bd8c356f5/hls/index.m3u8
 报复小三行!动最婊内射干翻她!老公,https://public1.kakoaction.com/newhd/202310/651f9b4537926f1bd8c356f6/hls/index.m3u8
 吟声听的心痒!翘臀黑丝美女浪叫!不止,https://m3u8.38cdn.com/newhd/202310/651f9b4537926f1bd8c356f4/hls/index.m3u8
+
 [有碼]:中字-苗条身躯大学生性感开发弓背高潮絶顶按摩1-山手梨爱SSIS899,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/2EFBC53EE2428905/play.m3u8?_KS=e044dfc9b4f5db61fc6635df4ead2c6c&_KE=1705781865
 中字-苗条身躯大学生性感开发弓背高潮絶顶按摩2-山手梨爱SSIS899,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/59F71004D5C01DF1/play.m3u8?_KS=0c18f3f1c574732d4b749f32a583ed10&_KE=1705774779
 [歐美]:小骚货被她的医生猛烈冲击,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/7786D2FC724B38DC/play.m3u8?_KS=0b60203331ccc844bc2f5e026cb404a6&_KE=1705771067
@@ -5984,6 +6038,8 @@ IPZZ-023 本该温柔给处男弟弟-明里紬,https://t21.cdn2020.com/video/m3u
 [歐美]:无法抗拒极品继妹这只榨精机器,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/D9042ECF14B8A2D9/play.m3u8?_KS=040a495561232435824c75743a91cad0&_KE=1705753052
 [國產]:国产AV剧情-诱惑警花不开罚单改开粉逼91KCM-082,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/7F0AB5D6B6EB8826/play.m3u8?_KS=1bd9e4e1b8b40600b3bca6c7ceb87d9d&_KE=1705731833
 [無碼]:无码流出黑暗舞台偶像轮奸秀1-永濑唯ATID-370,https://cdn-m.asujp.com:59888/f/data7/EC39DC2E22B38CC7/050595C5BC830D95/play.m3u8?_KS=941357434a57addf485c4a9e3144f044&_KE=1705727961
+
+2024.1.23,
 國產源擼閣①,https://lbbf9.com/20191102/8tOZ9w12/index.m3u8
 國產源擼閣②,https://lbbf9.com/20191030/hwjpxFVH/index.m3u8
 國產源擼閣③,https://lbbf9.com/20191030/8Zgys1TO/index.m3u8
@@ -6004,6 +6060,7 @@ IPZZ-023 本该温柔给处男弟弟-明里紬,https://t21.cdn2020.com/video/m3u
 玉求不满大儿媳-虞姬,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/21/d43f19e7/index.m3u8
 公公双飞二儿媳-顾小北 虞姬,https://t10t13t16.cdn2020.com/video/m3u8/2021/11/30/4dfb9409/index.m3u8
 赢乱4P三儿媳,https://t10t13t16.cdn2020.com/video/m3u8/2021/12/05/373d172b/index.m3u8
+徐蕾系列，
 汗水女孩的秀惑-徐蕾,https://t19.cdn2020.com/video/m3u8/2022/06/09/dbaa955c/index.m3u8
 妹妹房间的冷气坏掉-徐蕾,https://t19.cdn2020.com/video/m3u8/2022/07/01/968b9574/index.m3u8
 守寡母女的安慰-徐蕾 项子甯,https://t19.cdn2020.com/video/m3u8/2022/07/31/c945797b/index.m3u8
@@ -6013,6 +6070,8 @@ IPZZ-023 本该温柔给处男弟弟-明里紬,https://t21.cdn2020.com/video/m3u
 外拍惨遭米千美抄女-徐蕾,https://t21.cdn2020.com/video/m3u8/2023/02/28/9ec6e745/index.m3u8
 两兄弟轮噪失恋小姑-徐蕾,https://t21.cdn2020.com/video/m3u8/2023/03/27/d4a75e10/index.m3u8
 骚姐赢雪抚慰我的内捧-徐蕾,https://t21.cdn2020.com/video/m3u8/2023/05/09/2008dde3/index.m3u8
+
+
 2024.2.4提前更新,https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
 过年不更新,https://vd3.bdstatic.com:443/mda-me57bm308iu6stcz/1080p/cae_h264/1620279663855106642/mda-me57bm308iu6stcz.mp4
 HongKongDoll玩偶姐姐森林 - 第二集 woods - Episode 2 欺骗 Lies,https://vip2.slbfsl.com/20230226/FrtYhWPU/index.m3u8
