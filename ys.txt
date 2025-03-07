@@ -1,0 +1,48 @@
+{
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",
+  "logo": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oEb9EAiMhR67DA00fZCpIXMigA8LAkAI9enDAD~tplv-dy-aweme-images-v2:3000:3000:q75.webp?biz_tag=aweme_images&from=327834062&s=PackSourceEnum_SEARCH&sc=image&se=false&x-expires=1727452800&x-signature=Q6AiH8FOO86OfzLFvuUZpJbsV4s%3D",
+  "wallpaper": "https://bing.img.run/uhd.php",
+  "sites": [
+    {
+      "key": "瓜子",
+      "name": "蓝光┃秒播",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "IPV4若卡顿切IPV6",
+      "type": 0,
+      "url": "",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "IPV6①",
+      "type": 0,
+      "url": "",
+      "playerType": 1
+    },
+    {
+      "name": "IPV6②",
+      "type": 0,
+      "url": "",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "",
+      "ua": "okhttp/3.15",
+      "playerType": 2
+    }
+  ]
+}
