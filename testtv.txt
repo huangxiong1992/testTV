@@ -1,30 +1,20 @@
 央视卫视,#genre#
-测试,http://1301-txt.kdds.henancatv.com:80/otv/skcc/livetry/channel37001/2300.m3u8?session=37154&starttime=20250330T214455&length=300&k=fad72b88377cdce6d9c7fe7198cca348&t=67E94AD7&UID=dangbei_df9821c0-6500-4cf0-a70b-24a967076ee1
-CCTV-1,http://183.186.91.42:8899/tsfile/live/0001_1.m3u8
-CCTV-2,http://183.186.91.42:8899/tsfile/live/0002_1.m3u8
-CCTV-3,http://183.186.91.42:8899/tsfile/live/0003_1.m3u8
-CCTV-4,http://183.186.91.42:8899/tsfile/live/0004_1.m3u8
-CCTV-5,http://183.186.91.42:8899/tsfile/live/0005_1.m3u8
-CCTV-5+,http://183.186.91.42:8899/tsfile/live/1000_1.m3u8
-CCTV-6,http://183.186.91.42:8899/tsfile/live/0006_1.m3u8
-CCTV-7,http://183.186.91.42:8899/tsfile/live/0007_1.m3u8
-CCTV-8,http://183.186.91.42:8899/tsfile/live/0008_1.m3u8
-CCTV-9,http://183.186.91.42:8899/tsfile/live/0009_1.m3u8
-CCTV-10,http://183.186.91.42:8899/tsfile/live/0010_1.m3u8
-CCTV-11,http://183.186.91.42:8899/tsfile/live/0011_1.m3u8
-CCTV-12,http://183.186.91.42:8899/tsfile/live/0012_1.m3u8
-CCTV-13,http://183.186.91.42:8899/tsfile/live/0013_1.m3u8
-CCTV-14,http://183.186.91.42:8899/tsfile/live/0014_1.m3u8
-CCTV-15,http://183.186.91.42:8899/tsfile/live/0015_1.m3u8
-北京卫视,http://183.186.91.42:8899/tsfile/live/0122_1.m3u8
-东方卫视,http://183.186.91.42:8899/tsfile/live/0107_1.m3u8
-山西卫视,http://183.186.91.42:8899/tsfile/live/0118_1.m3u8
-湖南卫视,http://183.186.91.42:8899/tsfile/live/0128_1.m3u8
-浙江卫视,http://183.186.91.42:8899/tsfile/live/0124_1.m3u8
-天津卫视,http://183.186.91.42:8899/tsfile/live/0135_1.m3u8
-江苏卫视,http://183.186.91.42:8899/tsfile/live/0127_1.m3u8
-深圳卫视,http://183.186.91.42:8899/tsfile/live/0126_1.m3u8
-重庆卫视, http://183.186.91.42:8899/tsfile/live/0142_1.m3u8
+CCTV-1 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel1Y265/1400.m3u8?session=4554804&starttime=20250415T100926&length=300&k=8b1d6ebe6c09ba40c2073b85c005d6c3&t=67FDBFD6&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-2 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel2/2300.m3u8?session=1223592&starttime=20250415T093338&length=300&k=dbfc1d1fb9075b317d6acd62a85868e1&t=67FDB772&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-3 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel3/2300.m3u8?session=1224653&starttime=20250415T103319&length=300&k=aaeeefdcf4bf57548b72e6ed22230cfb&t=67FDC56F&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-4 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel4/2300.m3u8?session=1228865&starttime=20250415T134516&length=300&k=cd15bf42533a56026a29abdcb99f0024&t=67FDF26C&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-5 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel5/2300.m3u8?session=1228464&starttime=20250415T134523&length=300&k=56b73c116b23f50b44ae82922956ea52&t=67FDF273&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-6 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel6/2300.m3u8?session=1255&starttime=20250415T130633&length=300&k=a1f4e434f8e3db34f8cc0e87a223c0bb&t=67FDE95A&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-7 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel7/2300.m3u8?session=1227843&starttime=20250415T130708&length=300&k=8a221dffc75e9527d39911ffedc21fd5&t=67FDE97C&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-8 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel8/2300.m3u8?session=1265&starttime=20250415T130735&length=300&k=89e2665d73c55a3860a89e552a031afe&t=67FDE997&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-9 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel9/2300.m3u8?session=1227861&starttime=20250415T130819&length=300&k=7026ba3a9269142cc72ec17269a80f53&t=67FDE9C3&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-10 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel10/2300/20250415/20250415T103504.ts?session=1224696&starttime=20250415T103503&length=300&k=c5decb11b43065ff8290689ab9d76ef7&t=67FDC5D7&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-11 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel41/2300/20250415/20250415T103520.ts?session=330&starttime=20250415T103517&length=300&k=c380cf35357231260396ce36b308087d&t=67FDC5E6&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-12 HD,http://4403-hs.kdds.henancatv.com/otv/skcc/livetry/channel11/2300.m3u8?session=1227881&k=24b6a6c8100a82d9d5b79fa4a88e37c3&t=67FDEA01&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-13 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel39/2300.m3u8?session=1628&starttime=20250415T135932&length=300&k=c7ecad503525e9a33cb76ddf82e82cd1&t=67FDF5C4&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-14 HD,http://4403-hs.kdds.henancatv.com/otv/skcc/livetry/channel12/2300.m3u8?session=1227898&k=91f13e88c51dcabf0f1c2e2091f4b388&t=67FDEA35&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-15 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel12/2300.m3u8?session=1228814&starttime=20250415T135954&length=300&k=10591dd484471ada05725a83d891b796&t=67FDF5DA&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-5+ HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel13/2300/20250415/20250415T103623.ts?session=1224726&starttime=20250415T103618&length=300&k=d0256c3c45598c21f5e5f6e2500585b1&t=67FDC622&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
 湖北卫视,http://183.186.91.42:8899/tsfile/live/0132_1.m3u8
 山东卫视,http://183.186.91.42:8899/tsfile/live/0131_1.m3u8
 河北卫视,http://183.186.91.42:8899/tsfile/live/0117_1.m3u8
