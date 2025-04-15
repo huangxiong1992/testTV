@@ -1,121 +1,17 @@
 央视卫视,#genre#
-CCTV-1 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel1Y265/1400.m3u8?session=4554804&starttime=20250415T100926&length=300&k=8b1d6ebe6c09ba40c2073b85c005d6c3&t=67FDBFD6&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-2 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel2/2300.m3u8?session=1223592&starttime=20250415T093338&length=300&k=dbfc1d1fb9075b317d6acd62a85868e1&t=67FDB772&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-3 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel3/2300.m3u8?session=1224653&starttime=20250415T103319&length=300&k=aaeeefdcf4bf57548b72e6ed22230cfb&t=67FDC56F&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-4 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel4/2300.m3u8?session=1228865&starttime=20250415T134516&length=300&k=cd15bf42533a56026a29abdcb99f0024&t=67FDF26C&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-5 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel5/2300.m3u8?session=1228464&starttime=20250415T134523&length=300&k=56b73c116b23f50b44ae82922956ea52&t=67FDF273&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-6 4K,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel6/2300.m3u8?session=1682&starttime=20250415T141439&length=300&k=c2bb7ade73e83f1c6d97faaa547fd943&t=67FDF94F&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-7 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel7/2300.m3u8?session=1227843&starttime=20250415T130708&length=300&k=8a221dffc75e9527d39911ffedc21fd5&t=67FDE97C&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-8 4K,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel8/2300.m3u8?session=1691&starttime=20250415T141602&length=300&k=515599b60ed5c2854883bbd9939dc22f&t=67FDF9A2&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-9 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel9/2300.m3u8?session=1227861&starttime=20250415T130819&length=300&k=7026ba3a9269142cc72ec17269a80f53&t=67FDE9C3&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-10 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel10/2300/20250415/20250415T103504.ts?session=1224696&starttime=20250415T103503&length=300&k=c5decb11b43065ff8290689ab9d76ef7&t=67FDC5D7&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-11 4K,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel41/2300/20250415/20250415T103520.ts?session=330&starttime=20250415T103517&length=300&k=c380cf35357231260396ce36b308087d&t=67FDC5E6&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-12 4K,http://4403-hs.kdds.henancatv.com/otv/skcc/livetry/channel11/2300.m3u8?session=1227881&k=24b6a6c8100a82d9d5b79fa4a88e37c3&t=67FDEA01&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-13 4K,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel39/2300.m3u8?session=1628&starttime=20250415T135932&length=300&k=c7ecad503525e9a33cb76ddf82e82cd1&t=67FDF5C4&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-14 4K,http://4403-hs.kdds.henancatv.com/otv/skcc/livetry/channel12/2300.m3u8?session=1227898&k=91f13e88c51dcabf0f1c2e2091f4b388&t=67FDEA35&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-15 4K,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel40/2300.m3u8?session=1701&starttime=20250415T141813&length=300&k=601f565e62c98c057ef2b3fc831f90b1&t=67FDFA25&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-CCTV-5+ 4K,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel13/2300/20250415/20250415T103623.ts?session=1224726&starttime=20250415T103618&length=300&k=d0256c3c45598c21f5e5f6e2500585b1&t=67FDC622&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
-湖北卫视,http://183.186.91.42:8899/tsfile/live/0132_1.m3u8
-山东卫视,http://183.186.91.42:8899/tsfile/live/0131_1.m3u8
-河北卫视,http://183.186.91.42:8899/tsfile/live/0117_1.m3u8
-广东卫视,http://183.186.91.42:8899/tsfile/live/0125_1.m3u8
-黑龙江卫视,http://183.186.91.42:8899/tsfile/live/0143_1.m3u8
-四川卫视,http://183.186.91.42:8899/tsfile/live/0123_1.m3u8
-东南卫视,http://183.186.91.42:8899/tsfile/live/0137_1.m3u8
-河南卫视,http://183.186.91.42:8899/tsfile/live/0139_1.m3u8
-宁夏卫视,http://183.186.91.42:8899/tsfile/live/0112_1.m3u8
-广西卫视,http://183.186.91.42:8899/tsfile/live/0113_1.m3u8
-江西卫视,http://183.186.91.42:8899/tsfile/live/0138_1.m3u8
-吉林卫事,http://183.186.91.42:8899/tsfile/live/0116_1.m3u8
-青海卫视,http://183.186.91.42:8899/tsfile/live/0140_1.m3u8
-云南卫视,http://183.186.91.42:8899/tsfile/live/0119_1.m3u8
-陕西卫视,http://183.186.91.42:8899/tsfile/live/0136_1.m3u8
-河南地方,#genre#
-河南|浚县一套,http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-河南滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?zhend
-河南|汤阴综合,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-内黄综合频道,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-河南|淇县电视台,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-河南|卫辉综合,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
-河南新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
-河南|登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-河南|长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
-河南|辉县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
-河南|新郑综合,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
-河南|兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8#http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
-河南|林州综合,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-河南|原阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
-河南|镇平新闻综合,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
-河南|遂平一套,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
-内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
-禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-河南|上街电视台,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-河南新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?zhend
-河南义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
-河南灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
-河南鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
-河南嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhend
-河南渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-河南济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
-河南宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
-河南|永城新闻,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
-河南|唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
-河南|南乐综合,http://tvpull.dxhmt.cn:9081/tv/10923-1.m3u8
-河南|叶县一套,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
-河南|获嘉综合,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
-河南|邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
-河南|新密新闻,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-河南|孟津新闻,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
-河南|新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
-河南|潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-河南|巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
-河南|罗山综合,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
-河南|尉氏综合,http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
-河南|项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-河南|鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
-河南|新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-河南|固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
-河南|沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
-河南|安阳新闻,http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
-河南|新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
-河南|上蔡综合,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-河南|襄城综合,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
-河南|西华综合,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
-河南|封丘新闻综合,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
-河南|鲁山综合,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
-河南|宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
-河南|扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
-河南|淅川综合,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
-河南|灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
-河南|舞阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
-河南|杞县新闻综合,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
-河南|确山综合,http://tvpull.dxhmt.cn:9081/tv/11725-1.m3u8
-河南|临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
-河南|通许综合,http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
-河南|太康综合,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
-河南|舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-河南|孟州综合,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
-河南|建安综合,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-河南|鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-河南|西平综合,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
-嵩县综合新闻,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
-济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
-宜阳综合频道,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
-泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
-河南荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?zhend
-河南新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
-河南温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
-河南郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
-河南扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
-河南禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
-河南方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
-河南光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-河南唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8?zhend
-郏县综合频道,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
-荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
-方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
-温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+CCTV-1 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel1Y265/1400.m3u8?session=4554804&starttime=20250415T100926&length=300&k=8b1d6ebe6c09ba40c2073b85c005d6c3&t=67FDBFD6&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-2 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel2/2300.m3u8?session=1223592&starttime=20250415T093338&length=300&k=dbfc1d1fb9075b317d6acd62a85868e1&t=67FDB772&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-3 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel3/2300.m3u8?session=1224653&starttime=20250415T103319&length=300&k=aaeeefdcf4bf57548b72e6ed22230cfb&t=67FDC56F&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-4 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel4/2300.m3u8?session=1228865&starttime=20250415T134516&length=300&k=cd15bf42533a56026a29abdcb99f0024&t=67FDF26C&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-5 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel5/2300.m3u8?session=1228464&starttime=20250415T134523&length=300&k=56b73c116b23f50b44ae82922956ea52&t=67FDF273&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-6 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel6/2300.m3u8?session=2752&starttime=20250415T170320&length=300&k=ac14c256f5454f769782b80e02105d16&t=67FE20D8&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-7 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel7/2300.m3u8?session=1227843&starttime=20250415T130708&length=300&k=8a221dffc75e9527d39911ffedc21fd5&t=67FDE97C&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-8 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel8/2300.m3u8?session=2773&starttime=20250415T170526&length=300&k=bf615739bedcc627b9b5e6dab02841c5&t=67FE2156&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-9 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel9/2300.m3u8?session=1227861&starttime=20250415T130819&length=300&k=7026ba3a9269142cc72ec17269a80f53&t=67FDE9C3&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-10 HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel10/2300/20250415/20250415T103504.ts?session=1224696&starttime=20250415T103503&length=300&k=c5decb11b43065ff8290689ab9d76ef7&t=67FDC5D7&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-11 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel41/2300/20250415/20250415T103520.ts?session=330&starttime=20250415T103517&length=300&k=c380cf35357231260396ce36b308087d&t=67FDC5E6&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-12 HD,http://4403-hs.kdds.henancatv.com/otv/skcc/livetry/channel11/2300.m3u8?session=1227881&k=24b6a6c8100a82d9d5b79fa4a88e37c3&t=67FDEA01&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-13 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel39/2300.m3u8?session=1628&starttime=20250415T135932&length=300&k=c7ecad503525e9a33cb76ddf82e82cd1&t=67FDF5C4&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-14 HD,http://4403-hs.kdds.henancatv.com/otv/skcc/livetry/channel12/2300.m3u8?session=1227898&k=91f13e88c51dcabf0f1c2e2091f4b388&t=67FDEA35&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-15 HD,http://4309-txt.kdds.henancatv.com/otv/skcc/livetry/channel40/2300.m3u8?session=2790&starttime=20250415T170713&length=300&k=af17cf00db2c8500f4a5b37c92d899e9&t=67FE21C1&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
+CCTV-5+ HD,http://4403-txt.kdds.henancatv.com/otv/skcc/livetry/channel13/2300/20250415/20250415T103623.ts?session=1224726&starttime=20250415T103618&length=300&k=d0256c3c45598c21f5e5f6e2500585b1&t=67FDC622&UID=dangbei_cc4b7c93-4782-483c-801f-f16dbec7eb87
