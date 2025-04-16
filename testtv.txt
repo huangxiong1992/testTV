@@ -82,6 +82,39 @@ CETV1 HD,http://107.174.52.32/itv.php?id=CETV1
 晴彩篮球,http://107.174.52.32/itv.php?id=%e7%9d%9b%e5%bd%a9%e7%af%ae%e7%90%83
 晴彩广场舞,http://107.174.52.32/itv.php?id=%e7%9d%9b%e5%bd%a9%e5%b9%bf%e5%9c%ba%e8%88%9e
 
+央视卫视(电),#genre#
+CCTC-1 HD,http://110.89.11.24:995/gaoma/cctv1.m3u8
+CCTV-2 HD,http://110.89.11.24:995/gaoma/cctv2.m3u8
+CCTV-3 HD,http://110.89.11.24:995/gaoma/cctv3.m3u8
+CCTV-4 HD,http://110.89.11.24:995/gaoma/cctv4.m3u8
+CCTV-5 HD,http://110.89.11.24:995/gaoma/cctv5.m3u8
+CCTV-6 HD,http://110.89.11.24:995/gaoma/cctv6.m3u8
+CCTV-7 HD,http://110.89.11.24:995/gaoma/cctv7.m3u8
+CCTV-8 HD,http://110.89.11.24:995/gaoma/cctv8.m3u8
+CCTV-9 HD,http://110.89.11.24:995/gaoma/cctv9.m3u8
+CCTV-10 HD,http://110.89.11.24:995/gaoma/cctv10.m3u8
+CCTV-11 HD,http://110.89.11.24:995/gaoma/cctv11.m3u8
+CCTV-12 HD,http://110.89.11.24:995/gaoma/cctv12.m3u8
+CCTV-13 HD,http://110.89.11.24:995/gaoma/cctv13.m3u8
+CCTV-14 HD,http://110.89.11.24:995/gaoma/cctv14.m3u8
+CCTV-15 HD,http://110.89.11.24:995/gaoma/cctv15.m3u8
+CCTV-16 HD,http://110.89.11.24:995/gaoma/cctv16.m3u8
+CCTV-17 HD,http://110.89.11.24:995/gaoma/cctv17.m3u8
+CCTV-5＋ HD,http://110.89.11.24:995/gaoma/cctv5p.m3u8
+CGTNar HD,http://110.89.11.24:995/gaoma/cgtnar.m3u8
+CGTNdoc HD,http://110.89.11.24:995/gaoma/cgtndoc.m3u8
+CGTNen HD,http://110.89.11.24:995/gaoma/cgtnen.m3u8
+CGTN fr HD,http://110.89.11.24:995/gaoma/cgtnfr.m3u8
+CGTNru HD,http://110.89.11.24:995/gaoma/cgtnru.m3u8
+CGTNsp HD,http://110.89.11.24:995/gaoma/cgtnsp.m3u8
+CCTC-4K,http://110.89.11.24:995/gaoma/cctv4k.m3u8
+CCTV-8k,http://110.89.11.24:995/gaoma/cctv8k_36m.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+北京卫视,http://110.89.11.24:995/bptv/10000100000000050000000003870776.m3u8
+
+
+
+
 
 
 
