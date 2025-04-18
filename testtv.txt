@@ -1,5 +1,6 @@
 少儿动画,#genre#
-小猪佩奇,http://al.flv.huya.com/src/1099531787283-1099531787283-86584423268483072-2199063698022-10057-A-0-1.flv?wsSecret=6f56c70d0c7da5b3fcaa377cce18aa83&wsTime=6802a62f&ctype=tars_wap&seqid=2844514266286&uid=1099531787283&fs=bgct&ver=1&t=102
+猫和老鼠,http://tx.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.flv?wsSecret=517aa4ef5ec07ab29e5c30042e87c862&wsTime=6802b890&ctype=tars_wap&seqid=1746410966565&uid=1423782038&fs=bgct&ver=1&t=102
+小猪佩奇,http://txdirect.flv.huya.com/huyalive/1099531787283-1099531787283-86584423268483072-2199063698022-10057-A-0-1.flv?wsSecret=474dbff51abd2cfce7ddc6c8ca1aff17&wsTime=6802b805&ctype=tars_wap&seqid=2844518832631&uid=1099531787283&fs=bgct&ver=1&t=102
 开心锤锤,https://openhls-tct.douyucdn2.cn/dyliveflv3/9018297r6srMaf7F_2000.m3u8?txSecret=ca70ac1bac11a772970907da1ef9cc8d&txTime=68026163&token=cpn-androidmpro-0-9018297-c2440a4c9cd426b6205c0fb46ef44f52&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=412467424
 倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 熊熊乐园|01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
@@ -159,22 +160,28 @@
 凤凰资讯，http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港，http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 中国蓝天新闻,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-北京卫视,http://114.104.171.233:20080/hls/19/index.m3u8
-cctv13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a1ddef2fd21ffe1e040d9f21833b5677&txTime=18e7b8d5d44
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=d3dad1fd1a965ff59d3db3990b923267&txTime=18ee6e4efc1
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d217bd6cf85c93e3b47b96504cd2dc1c&txTime=18e6ff29019
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
-东莞新闻,https://tvonline.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8?timestamp=20250418204131&encrypt=c5144920722797d1f09893421f33fbe9
-东莞生活,https://tvonline.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8?timestamp=20250418204137&encrypt=cc00881fcc7e76dd8a6d8e972a24a947
-佛山综合,https://xmplay.fstv.com.cn/live/xingmu20250102162347DoBu.m3u8?txSecret=c903f3023fb7de3c0ac1dfdb99d2b372&txTime=68024891
-佛山影视,https://xmplay.fstv.com.cn/live/xingmu20250102162418tuXC.m3u8?txSecret=a3c3923901548c4da2892b33f5b78334&txTime=68024897
-佛山公共,https://xmplay.fstv.com.cn/live/xingmu20250102162318nNZ1.m3u8?txSecret=b2aa0f8378e56a613c43a275fe7bc1a9&txTime=6802489C
-佛山高明,https://xmplay.fstv.com.cn/live/xingmu20250102162545pB4m.m3u8?txSecret=502bad01fdbdc69a764ea916a083fb38&txTime=680248AA
-佛山三水,https://xmplay.fstv.com.cn/live/xingmu20250102162611ZO2y.m3u8?txSecret=dc8323bc6f905b574e4300ffeca1643e&txTime=680248AD
-河源公共1,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+东莞新闻,https://tvonline.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8?timestamp=20250418222420&encrypt=e9e3f85ecbe41d986fc5b5a6c91aafbc
+东莞生活,https://tvonline.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8?timestamp=20250418222417&encrypt=2f08bdb95518ebcc2bb3346bdf194817
+佛山综合,https://xmplay.fstv.com.cn/live/xingmu20250102162347DoBu.m3u8?txSecret=f71746d2cf0624a3d4667b94db080a7c&txTime=68026098
+佛山影视,https://xmplay.fstv.com.cn/live/xingmu20250102162418tuXC.m3u8?txSecret=775e260dc730f112db9dc1d652d6b0b3&txTime=68026096
+佛山公共,https://xmplay.fstv.com.cn/live/xingmu20250102162318nNZ1.m3u8?txSecret=bab9b73f74830aa07444259fd5daa616&txTime=68026093
+佛山高明,https://xmplay.fstv.com.cn/live/xingmu20250102162545pB4m.m3u8?txSecret=bff32a3fb89f9d626ac967b9aab209ac&txTime=6802608F
+佛山三水,https://xmplay.fstv.com.cn/live/xingmu20250102162611ZO2y.m3u8?txSecret=b5df3fed14b63480ca197a210c36418e&txTime=6802608A
+河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共2,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-河源综合,https://1699055352.cloudvdn.com/a.m3u8?domain=gbtv-hls-wjq.zjwtv.com&player=wmMAAGskNsA8ajcY&secondToken=secondToken%3AjkmEbIaOECeOVSo_W8BS_Pe1wrM&streamid=zjtv%3Azjtv%2Fzhpd&v3=1
 湛江公共,https://2074070124.cloudvdn.com/a.m3u8?domain=gbtv-hls-wjq.zjwtv.com&player=POMAAPWA5HfpazcY&secondToken=secondToken%3A8Ttlp4ZzR3Eg79_jnbDyhVi06VU&streamid=zjtv%3Azjtv%2Fggpd&v3=1
+
+cctv13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a1ddef2fd21ffe1e040d9f21833b5677&txTime=18e7b8d5d44
+
+
+
+
+
+
+
 央视卫视(全网通),#genre#
 CCTC-1 HD,http://47.122.125.40:6666/hls/cctv1hd.m3u8
 CCTC-2 HD,http://47.122.125.40:6666/hls/cctv2hd.m3u8
