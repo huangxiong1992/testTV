@@ -1,9 +1,9 @@
 广东,#genre#
 香港卫视 HD,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视 HD,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰中文，http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯，http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港，http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
 翡翠台,http://154.201.73.55/Smart.php?id=jade_twn
 珍珠台,http://154.201.73.55/Smart.php?id=pearl_twn
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
