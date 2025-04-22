@@ -1,6 +1,4 @@
-
-联通测试2,#genre#
-
+央卫联通一,#genre#
 CCTV1-综合,http://124.67.12.222:9901/tsfile/live/1024_1.m3u8
 CCTV2-财经,http://124.67.12.222:9901/tsfile/live/1023_1.m3u8
 CCTV3-综艺,http://124.67.12.222:9901/tsfile/live/1028_1.m3u8
@@ -69,7 +67,7 @@ CCTV5+体育赛事,http://124.67.12.222:9901/tsfile/live/1037_1.m3u8
 IPTV野外,http://124.67.12.222:9901/tsfile/live/1022_1.m3u8
 
 
-联通4
+央卫备用(联2),#genre#
 CCTV1-综合,http://221.13.232.113:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://221.13.232.113:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://221.13.232.113:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -106,7 +104,7 @@ CCTV14-少儿,http://221.13.232.113:9901/tsfile/live/0014_1.m3u8?key=txiptv&play
 
 
 
-联通3
+央卫备用(联3),#genre#
 CCTV1-综合,http://14.204.46.18:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-经济,http://14.204.46.18:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3-综艺,http://14.204.46.18:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -158,7 +156,7 @@ CCTV15-音乐,http://14.204.46.18:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 
 
 
-电信2，#genre#
+央卫备用(电1),#genre#
 
 CCTV1-综合,http://111.227.196.164:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://111.227.196.164:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -200,7 +198,8 @@ CCTV15-音乐,http://111.227.196.164:9901/tsfile/live/0015_1.m3u8?key=txiptv&pla
 内蒙古卫视,http://111.227.196.164:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-电信3，#genre#
+
+央卫备用(电2),#genre#
 CCTV1-综合,http://221.232.229.171:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://221.232.229.171:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://221.232.229.171:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -233,6 +232,12 @@ CCTV15-音乐,http://221.232.229.171:85/tsfile/live/0015_1.m3u8?key=txiptv&playl
 黑龙江卫视,http://221.232.229.171:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://221.232.229.171:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://221.232.229.171:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
+
+
 
 
 
