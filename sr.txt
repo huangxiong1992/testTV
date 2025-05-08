@@ -7,28 +7,6 @@
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 中央少儿,http://goo.bkpcp.top/mg/cctv14
 开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
-新大头儿子小头爸爸第三季,#genre#
-1,https://wjm.kemfsj.com/e496ab199549325dc527e5b0be575741/20250504161238/20190108/RDhTGX0B/index.m3u8
-2,https://wjm.kemfsj.com/7775932e61d8286d063678bff66dae23/20250504161259/20190108/jFqWBqHB/index.m3u8
-3,https://wjm.kemfsj.com/7707df627a276f8b422f7babf05b6d96/20250504161417/20190108/nrMpsAQW/index.m3u8
-4,https://wjm.kemfsj.com/139b142fce0439115d9cb27d92c0f73c/20250504161411/20190108/7iM3Vniq/index.m3u8
-5,https://wjm.kemfsj.com/24473216e1a32d22ed4abc560d95b495/20250504161504/20190108/oEnH2h6F/index.m3u8
-6,https://wjm.kemfsj.com/b798103e7215ce50623154bb5cc6fe0c/20250504161601/20190108/pmavihmD/index.m3u8
-7,https://wjm.kemfsj.com/ebe8b0714986aa8c6effc2c38ddedfed/20250504161718/20190108/nRY4MhlO/index.m3u8
-8,https://wjm.kemfsj.com/4df44be98df33812e78709c8aa0a8311/20250504161727/20190108/NkCTMBIZ/index.m3u8
-9,https://wjm.kemfsj.com/224dcd19c990169591f2b704516a69f4/20250504161737/20190108/Qtmhrdwp/index.m3u8
-10,https://wjm.kemfsj.com/cf7cb5dc7270cdcaed750ae65169bd8e/20250504161744/20190108/8rpETvs1/index.m3u8
-11,https://wjm.kemfsj.com/6fd7af3f9d7f73ab030a01d26ce21c59/20250504161734/20190108/cPaANTVZ/index.m3u8
-12,https://wjm.kemfsj.com/4443aa969677a3af77269d76ca3244f4/20250504161808/20190108/iYSvkUUk/index.m3u8
-13,https://wjm.kemfsj.com/17df0976eedb2eac4192dc012731cfc1/20250504161819/20190108/tthU7vvn/index.m3u8
-14,https://wjm.kemfsj.com/2f20900aee8730abb9af1d5a648e2281/20250504161809/20190108/rzjMAXa3/index.m3u8
-15,https://wjm.kemfsj.com/c9384fa7b0c531678f59053413644ea8/20250504161838/20190108/Jko2zglT/index.m3u8
-16,https://wjm.kemfsj.com/d571da0e7808d3d9c137938d4e9258df/20250504161830/20190108/4OO1ttWk/index.m3u8
-17,https://wjm.kemfsj.com/04ec212760015e88bad25d9689e5c022/20250504161859/20190108/lPnlAbBi/index.m3u8
-18,https://wjm.kemfsj.com/35266990647c6fef12dd3a0ceb60de22/20250504161851/20190108/pvEunSjF/index.m3u8
-19,https://wjm.kemfsj.com/4fa737e33692a5968210d8f14e09bd93/20250504161906/20190108/CMNIG9dM/index.m3u8
-20,https://wjm.kemfsj.com/b28e8d5533daf27465bc919952421486/20250504161915/20190108/GAXv2sCR/index.m3u8
-
 
 
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
