@@ -1,4 +1,4 @@
-🇨🇳央卫频道,#genre#
+央卫频道,#genre#
 CCTV1,http://175.167.239.214:9902/tsfile/live/0001_1.m3u8
 CCTV2,http://175.167.239.214:9902/tsfile/live/0002_1.m3u8
 CCTV3,http://175.167.239.214:9902/tsfile/live/0003_1.m3u8
@@ -846,33 +846,15 @@ JJ斗地主,http://i.880824.xyz:35455/douyu/488743
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视,rtmp://f13h.mine.nu/sat/tv051
-民视,http://211.72.65.236:8504/.m3u8YAIWAN,http://211.72.65.236:8538/.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-
-凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 星光华剧台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
-
-
-台视,rtmp://f13h.mine.nu/sat/tv071
-华视,rtmp://f13h.mine.nu/sat/tv111
-华视,rtmp://f13h.mine.nu/sat/tv111
-华视,http://211.72.65.236:8503/.m3u8
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-中视,rtmp://f13h.mine.nu/sat/tv091
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
 人间卫視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+HKTV34/stream02/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
@@ -882,7 +864,7 @@ Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
-法时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8u
+法时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
