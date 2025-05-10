@@ -6,9 +6,13 @@
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 中央少儿,http://goo.bkpcp.top/mg/cctv14
+哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+
+
+
+
 开心锤锤,http://huanqiuzhibo.cn/manifest/douyu.php?id=9018297 
-
-
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8 
@@ -169,6 +173,38 @@
 动画乐翻天|294,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/02a7169eb3004e19b9e82c23d14cd5b2/1200.m3u8
 动画乐翻天|295,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f812104b48504fae91fe9377945fd01e/1200.m3u8
 动画乐翻天|296,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9fbd06a9f19542dda886b65a65731fc4/1200.m3u8
+
+
+
+新大头儿子小头爸爸,#genre#
+1,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE01.mp4
+2,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE02.mp4
+3,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE03.mp4
+4,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE04.mp4
+5,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE05.mp4
+6,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE06.mp4
+7,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE07.mp4
+8,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE08.mp4
+9,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE09.mp4
+10,http://127.0.0.1:8089/%D0%C2%B4%F3%CD%B7%B6%F9%D7%D3%BA%CD%D0%A1%CD%B7%B0%D6%B0%D6%B5%DA%C8%FD%BC%BE10.mp4
+电影1,https://vip1.lz-cdn1.com/20220430/3780_744e8f21/index.m3u8
+电影2,https://vip1.lz-cdn1.com/20220317/254_9b5c923f/index.m3u8
+电影3,https://cdn7.ryplay7.com/20241124/6998_60f1b1ed/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
