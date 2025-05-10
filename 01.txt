@@ -26,7 +26,7 @@ CCTV15,http://175.167.239.214:9902/tsfile/live/0015_1.m3u8
 CCTV16,http://122.139.201.233:85/tsfile/live/0016_2.m3u8?key=txiptv
 CCTV17,http://122.139.201.233:85/tsfile/live/0017_1.m3u8?key=txiptv
 
-🇨🇳中央台(联通),#genre#
+中央台(联通),#genre#
 CCTV1,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003864351.m3u8
 CCTV2,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870745.m3u8
 CCTV3,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870746.m3u8
@@ -713,7 +713,7 @@ JJ斗地主,http://i.880824.xyz:35455/douyu/488743
 
 
 
-临时测试(一)_888,#genre#
+测试(一)_888,#genre#
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -766,7 +766,7 @@ TVB翡翠台(联),http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 
 
-临时测试(二)_999,#genre#
+测试(二)_999,#genre#
 
 
 
