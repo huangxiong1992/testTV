@@ -716,6 +716,11 @@ JJ斗地主,http://i.880824.xyz:35455/douyu/488743
 测试(一)_888,#genre#
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
+
+凤凰1,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰2,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
