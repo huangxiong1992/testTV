@@ -1,192 +1,150 @@
-央卫频道,#genre#
-CCTV1,http://175.167.239.214:9902/tsfile/live/0001_1.m3u8
-CCTV2,http://175.167.239.214:9902/tsfile/live/0002_1.m3u8
-CCTV3,http://175.167.239.214:9902/tsfile/live/0003_1.m3u8
-CCTV4,http://175.167.239.214:9902/tsfile/live/0004_1.m3u8
-CCTV5,http://175.167.239.214:9902/tsfile/live/0005_1.m3u8
-CCTV6,http://175.167.239.214:9902/tsfile/live/0006_1.m3u8
-CCTV7,http://175.167.239.214:9902/tsfile/live/0007_1.m3u8
-CCTV8,http://175.167.239.214:9902/tsfile/live/0008_1.m3u8
-CCTV9,http://175.167.239.214:9902/tsfile/live/0009_1.m3u8
-CCTV10,http://175.167.239.214:9902/tsfile/live/0010_1.m3u8
-CCTV11,http://175.167.239.214:9902/tsfile/live/0011_1.m3u8
-CCTV12,http://175.167.239.214:9902/tsfile/live/0012_1.m3u8
-CCTV13,http://175.167.239.214:9902/tsfile/live/0013_1.m3u8
-CCTV14,http://175.167.239.214:9902/tsfile/live/0014_1.m3u8
-CCTV15,http://175.167.239.214:9902/tsfile/live/0015_1.m3u8
-CCTV16,http://122.139.201.233:85/tsfile/live/0016_2.m3u8?key=txiptv
-CCTV17,http://122.139.201.233:85/tsfile/live/0017_1.m3u8?key=txiptv
-辽宁卫视,http://175.167.239.214:9902/tsfile/live/0121_1.m3u8
-北京卫视,http://175.167.239.214:9902/tsfile/live/0122_1.m3u8
-天津卫视,http://175.167.239.214:9902/tsfile/live/0135_1.m3u8
-浙江卫视,http://175.167.239.214:9902/tsfile/live/0124_1.m3u8
-江苏卫视,http://175.167.239.214:9902/tsfile/live/0127_1.m3u8
-安徽卫视,http://175.167.239.214:9902/tsfile/live/0130_1.m3u8
-贵州卫视,http://175.167.239.214:9902/tsfile/live/0120_1.m3u8
-山东卫视,http://175.167.239.214:9902/tsfile/live/0131_1.m3u8
-山西卫视,http://175.167.239.214:9902/tsfile/live/0118_1.m3u8
-广东卫视,http://175.167.239.214:9902/tsfile/live/0125_1.m3u8
-广西卫视,http://175.167.239.214:9902/tsfile/live/0113_1.m3u8
-湖北卫视,http://175.167.239.214:9902/tsfile/live/0132_1.m3u8
-湖南卫视,http://175.167.239.214:9902/tsfile/live/0128_1.m3u8
-江西卫视,http://175.167.239.214:9902/tsfile/live/0138_1.m3u8
-河北卫视,http://175.167.239.214:9902/tsfile/live/0117_1.m3u8
-河南卫视,http://175.167.239.214:9902/tsfile/live/0139_1.m3u8
-CCTV1,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003864351.m3u8
-CCTV2,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870745.m3u8
-CCTV3,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870746.m3u8
-CCTV4,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870747.m3u8
-CCTV5,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870748.m3u8
-CCTV5+,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870759.m3u8
-CCTV6,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870749.m3u8
-CCTV7,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870750.m3u8
-CCTV8,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870838.m3u8
-CCTV9,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870752.m3u8
-CCTV10,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870753.m3u8
-CCTV11,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870754.m3u8
-CCTV12,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870755.m3u8
-CCTV13,http://2.itv.nctv.top:35455/bptv/10000100000000050000000004796248.m3u8
-CCTV14,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870756.m3u8
-CCTV15,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870757.m3u8
-CCTV16,http://2.itv.nctv.top:35455/bptv/10000100000000050000000004972604.m3u8
-CCTV17,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870758.m3u8
-CCTV1,http://122.139.201.233:85/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://122.139.201.233:85/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://122.139.201.233:85/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://122.139.201.233:85/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://122.139.201.233:85/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6,http://122.139.201.233:85/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV7,http://122.139.201.233:85/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://122.139.201.233:85/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV9,http://122.139.201.233:85/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV10,http://122.139.201.233:85/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV11,http://122.139.201.233:85/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV12,http://122.139.201.233:85/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://122.139.201.233:85/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV14,http://122.139.201.233:85/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV15,http://122.139.201.233:85/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV16,http://122.139.201.233:85/tsfile/live/0016_2.m3u8?key=txiptv
-CCTV17,http://122.139.201.233:85/tsfile/live/0017_1.m3u8?key=txiptv
-吉林卫视,http://122.139.201.233:85/tsfile/live/0018_1.m3u8?key=txiptv
-山西卫视,http://122.139.201.233:85/tsfile/live/0118_1.m3u8?key=txiptv
-内蒙古卫视,http://122.139.201.233:85/tsfile/live/0109_1.m3u8?key=txiptv
-辽宁卫视,http://122.139.201.233:85/tsfile/live/0121_1.m3u8?key=txiptv
-北京卫视,http://122.139.201.233:85/tsfile/live/0122_1.m3u8?key=txiptv
-东方卫视,http://122.139.201.233:85/tsfile/live/0107_1.m3u8?key=txiptv
-浙江卫视,http://122.139.201.233:85/tsfile/live/0124_1.m3u8?key=txiptv
-江苏卫视,http://122.139.201.233:85/tsfile/live/0127_1.m3u8?key=txiptv
-湖南卫视,http://122.139.201.233:85/tsfile/live/0128_1.m3u8?key=txiptv
-天津卫视,http://122.139.201.233:85/tsfile/live/0135_1.m3u8?key=txiptv
-深圳卫视,http://122.139.201.233:85/tsfile/live/0126_1.m3u8?key=txiptv
-安徽卫视,http://122.139.201.233:85/tsfile/live/0130_1.m3u8?key=txiptv
-广东卫视,http://122.139.201.233:85/tsfile/live/0125_1.m3u8?key=txiptv
-山东卫视,http://122.139.201.233:85/tsfile/live/0131_1.m3u8?key=txiptv
-贵州卫视,http://122.139.201.233:85/tsfile/live/0120_1.m3u8?key=txiptv
-黑龙江卫视,http://122.139.201.233:85/tsfile/live/0143_1.m3u8?key=txiptv
-河北卫视,http://122.139.201.233:85/tsfile/live/0117_1.m3u8?key=txiptv
-东南卫视,http://122.139.201.233:85/tsfile/live/0137_1.m3u8?key=txiptv
-湖北卫视,http://122.139.201.233:85/tsfile/live/0132_1.m3u8?key=txiptv
-重庆卫视,http://122.139.201.233:85/tsfile/live/0142_1.m3u8?key=txiptv
-云南卫视,http://122.139.201.233:85/tsfile/live/0119_1.m3u8?key=txiptv
-陕西卫视,http://122.139.201.233:85/tsfile/live/0136_1.m3u8?key=txiptv
-青海卫视,http://122.139.201.233:85/tsfile/live/0140_1.m3u8?key=txiptv
-兵团卫视,http://122.139.201.233:85/tsfile/live/0115_1.m3u8?key=txiptv
-甘肃卫视,http://122.139.201.233:85/tsfile/live/0141_1.m3u8?key=txiptv
-新疆卫视,http://122.139.201.233:85/tsfile/live/0110_1.m3u8?key=txiptv
-河南卫视,http://122.139.201.233:85/tsfile/live/0139_1.m3u8?key=txiptv
-宁夏卫视,http://122.139.201.233:85/tsfile/live/0112_1.m3u8?key=txiptv
-广西卫视,http://122.139.201.233:85/tsfile/live/0113_1.m3u8?key=txiptv
-西藏卫视,http://122.139.201.233:85/tsfile/live/0111_1.m3u8?key=txiptv
-四川卫视,http://122.139.201.233:85/tsfile/live/0123_1.m3u8?key=txiptv
-河南卫视,http://live.nctv.top/DYjsklis/hntv.php?id=hnws
-河南新闻,http://live.nctv.top/DYjsklis/hntv.php?id=hnxw
-江苏卫视,http://goo.bkpcp.top/mg/jsws
-东方卫视,http://goo.bkpcp.top/mg/dfws
-陕西卫视,http://goo.bkpcp.top/mg/sxws
-江西卫视,http://goo.bkpcp.top/mg/jxws
-湖北卫视,http://goo.bkpcp.top/mg/hubws
-河南卫视,http://goo.bkpcp.top/mg/hnws
-东南卫视,http://goo.bkpcp.top/mg/dnws
-江西卫视,http://goo.bkpcp.top/mg/jxws
-辽宁卫视,http://goo.bkpcp.top/mg/lnws
-广东卫视,http://goo.bkpcp.top/mg/gdws
-浙江卫视,http://goo.bkpcp.top/mg/zjws
-河南卫视,http://goo.bkpcp.top/mg/hnws
-吉林卫视,http://goo.bkpcp.top/mg/jlws
-陕西卫视,http://goo.bkpcp.top/mg/sxws
-海峡卫视,http://goo.bkpcp.top/mg/hxws
-宁夏卫视,http://goo.bkpcp.top/mg/nxws
-云南卫视,http://goo.bkpcp.top/mg/ynws
-重庆卫视,http://goo.bkpcp.top/mg/cqws
-内蒙古卫视,http://goo.bkpcp.top/mg/nmws
-甘肃卫视,http://goo.bkpcp.top/mg/gsws
-青海卫视,http://goo.bkpcp.top/mg/qhws
-山东卫视,http://goo.bkpcp.top/mg/sdws
-广西卫视,http://goo.bkpcp.top/mg/gxws
-贵州卫视,http://goo.bkpcp.top/mg/gzws
-新疆卫视,http://goo.bkpcp.top/mg/xjws
-西藏卫视,http://goo.bkpcp.top/mg/xzws
-海南卫视,http://goo.bkpcp.top/mg/hinws
-大湾区卫视,http://goo.bkpcp.top/mg/dwqws
-广东影视,http://goo.bkpcp.top/mg/gdys
-上海新闻综合,http://goo.bkpcp.top/mg/shxw
-上海东方影视,http://goo.bkpcp.top/mg/shys
-吉林卫视,http://119.53.26.59:85/tsfile/live/0018_1.m3u8?key=txiptv
-山西卫视,http://119.53.26.59:85/tsfile/live/0118_1.m3u8?key=txiptv
-内蒙古卫视,http://119.53.26.59:85/tsfile/live/0109_1.m3u8?key=txiptv
-辽宁卫视,http://119.53.26.59:85/tsfile/live/0121_1.m3u8?key=txiptv
-北京卫视,http://119.53.26.59:85/tsfile/live/0122_1.m3u8?key=txiptv
-东方卫视,http://119.53.26.59:85/tsfile/live/0107_1.m3u8?key=txiptv
-浙江卫视,http://119.53.26.59:85/tsfile/live/0124_1.m3u8?key=txiptv
-江苏卫视,http://119.53.26.59:85/tsfile/live/0127_1.m3u8?key=txiptv
-湖南卫视,http://119.53.26.59:85/tsfile/live/0128_1.m3u8?key=txiptv
-天津卫视,http://119.53.26.59:85/tsfile/live/0135_1.m3u8?key=txiptv
-深圳卫视,http://119.53.26.59:85/tsfile/live/0126_1.m3u8?key=txiptv
-安徽卫视,http://119.53.26.59:85/tsfile/live/0130_1.m3u8?key=txiptv
-广东卫视,http://119.53.26.59:85/tsfile/live/0125_1.m3u8?key=txiptv
-山东卫视,http://119.53.26.59:85/tsfile/live/0131_1.m3u8?key=txiptv
-贵州卫视,http://119.53.26.59:85/tsfile/live/0120_1.m3u8?key=txiptv
-黑龙江卫视,http://119.53.26.59:85/tsfile/live/0143_1.m3u8?key=txiptv
-河北卫视,http://119.53.26.59:85/tsfile/live/0117_1.m3u8?key=txiptv
-东南卫视,http://119.53.26.59:85/tsfile/live/0137_1.m3u8?key=txiptv
-湖北卫视,http://119.53.26.59:85/tsfile/live/0132_1.m3u8?key=txiptv
-重庆卫视,http://119.53.26.59:85/tsfile/live/0142_1.m3u8?key=txiptv
-云南卫视,http://119.53.26.59:85/tsfile/live/0119_1.m3u8?key=txiptv
-陕西卫视,http://119.53.26.59:85/tsfile/live/0136_1.m3u8?key=txiptv
-青海卫视,http://119.53.26.59:85/tsfile/live/0140_1.m3u8?key=txiptv
-兵团卫视,http://119.53.26.59:85/tsfile/live/0115_1.m3u8?key=txiptv
-甘肃卫视,http://119.53.26.59:85/tsfile/live/0141_1.m3u8?key=txiptv
-新疆卫视,http://119.53.26.59:85/tsfile/live/0110_1.m3u8?key=txiptv
-河南卫视,http://119.53.26.59:85/tsfile/live/0139_1.m3u8?key=txiptv
-宁夏卫视,http://119.53.26.59:85/tsfile/live/0112_1.m3u8?key=txiptv
-广西卫视,http://119.53.26.59:85/tsfile/live/0113_1.m3u8?key=txiptv
-西藏卫视,http://119.53.26.59:85/tsfile/live/0111_1.m3u8?key=txiptv
-四川卫视,http://119.53.26.59:85/tsfile/live/0123_1.m3u8?key=txiptv
-北京卫视,http://live.nctv.top/KLJHDS/bjtv.php?id=bjws
-陕西卫视,http://live.nctv.top/KLJHDS/sxtv.php?id=1131
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-湖北卫视,http://goo.bkpcp.top/mg/hubws
-陕西卫视,http://goo.bkpcp.top/mg/sxws
-青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
-海南卫视,http://goo.bkpcp.top/mg/hinws
-湖北卫视,http://goo.bkpcp.top/mg/hubws
-海南卫视,http://goo.bkpcp.top/mg/hinws
 
+	🇨🇳央卫台(移动),#genre#
+	CCTV1,http://122.139.201.233:85/tsfile/live/0001_1.m3u8?key=txiptv
+	CCTV2,http://122.139.201.233:85/tsfile/live/0002_1.m3u8?key=txiptv
+	CCTV3,http://122.139.201.233:85/tsfile/live/0003_1.m3u8?key=txiptv
+	CCTV4,http://122.139.201.233:85/tsfile/live/0004_1.m3u8?key=txiptv
+	CCTV5,http://122.139.201.233:85/tsfile/live/0005_1.m3u8?key=txiptv
+	CCTV6,http://122.139.201.233:85/tsfile/live/0006_1.m3u8?key=txiptv
+	CCTV7,http://122.139.201.233:85/tsfile/live/0007_1.m3u8?key=txiptv
+	CCTV8,http://122.139.201.233:85/tsfile/live/0008_1.m3u8?key=txiptv
+	CCTV9,http://122.139.201.233:85/tsfile/live/0009_1.m3u8?key=txiptv
+	CCTV10,http://122.139.201.233:85/tsfile/live/0010_1.m3u8?key=txiptv
+	CCTV11,http://122.139.201.233:85/tsfile/live/0011_1.m3u8?key=txiptv
+	CCTV12,http://122.139.201.233:85/tsfile/live/0012_1.m3u8?key=txiptv
+	CCTV13,http://122.139.201.233:85/tsfile/live/0013_1.m3u8?key=txiptv
+	CCTV14,http://122.139.201.233:85/tsfile/live/0014_1.m3u8?key=txiptv
+	CCTV15,http://122.139.201.233:85/tsfile/live/0015_1.m3u8?key=txiptv
+	CCTV16,http://122.139.201.233:85/tsfile/live/0016_2.m3u8?key=txiptv
+	CCTV17,http://122.139.201.233:85/tsfile/live/0017_1.m3u8?key=txiptv
+	吉林卫视,http://122.139.201.233:85/tsfile/live/0018_1.m3u8?key=txiptv
+	山西卫视,http://122.139.201.233:85/tsfile/live/0118_1.m3u8?key=txiptv
+	内蒙古卫视,http://122.139.201.233:85/tsfile/live/0109_1.m3u8?key=txiptv
+	辽宁卫视,http://122.139.201.233:85/tsfile/live/0121_1.m3u8?key=txiptv
+	北京卫视,http://122.139.201.233:85/tsfile/live/0122_1.m3u8?key=txiptv
+	东方卫视,http://122.139.201.233:85/tsfile/live/0107_1.m3u8?key=txiptv
+	浙江卫视,http://122.139.201.233:85/tsfile/live/0124_1.m3u8?key=txiptv
+	江苏卫视,http://122.139.201.233:85/tsfile/live/0127_1.m3u8?key=txiptv
+	湖南卫视,http://122.139.201.233:85/tsfile/live/0128_1.m3u8?key=txiptv
+	天津卫视,http://122.139.201.233:85/tsfile/live/0135_1.m3u8?key=txiptv
+	深圳卫视,http://122.139.201.233:85/tsfile/live/0126_1.m3u8?key=txiptv
+	安徽卫视,http://122.139.201.233:85/tsfile/live/0130_1.m3u8?key=txiptv
+	广东卫视,http://122.139.201.233:85/tsfile/live/0125_1.m3u8?key=txiptv
+	山东卫视,http://122.139.201.233:85/tsfile/live/0131_1.m3u8?key=txiptv
+	贵州卫视,http://122.139.201.233:85/tsfile/live/0120_1.m3u8?key=txiptv
+	黑龙江卫视,http://122.139.201.233:85/tsfile/live/0143_1.m3u8?key=txiptv
+	河北卫视,http://122.139.201.233:85/tsfile/live/0117_1.m3u8?key=txiptv
+	东南卫视,http://122.139.201.233:85/tsfile/live/0137_1.m3u8?key=txiptv
+	湖北卫视,http://122.139.201.233:85/tsfile/live/0132_1.m3u8?key=txiptv
+	重庆卫视,http://122.139.201.233:85/tsfile/live/0142_1.m3u8?key=txiptv
+	云南卫视,http://122.139.201.233:85/tsfile/live/0119_1.m3u8?key=txiptv
+	陕西卫视,http://122.139.201.233:85/tsfile/live/0136_1.m3u8?key=txiptv
+	青海卫视,http://122.139.201.233:85/tsfile/live/0140_1.m3u8?key=txiptv
+	兵团卫视,http://122.139.201.233:85/tsfile/live/0115_1.m3u8?key=txiptv
+	甘肃卫视,http://122.139.201.233:85/tsfile/live/0141_1.m3u8?key=txiptv
+	新疆卫视,http://122.139.201.233:85/tsfile/live/0110_1.m3u8?key=txiptv
+	河南卫视,http://122.139.201.233:85/tsfile/live/0139_1.m3u8?key=txiptv
+	宁夏卫视,http://122.139.201.233:85/tsfile/live/0112_1.m3u8?key=txiptv
+	广西卫视,http://122.139.201.233:85/tsfile/live/0113_1.m3u8?key=txiptv
+	西藏卫视,http://122.139.201.233:85/tsfile/live/0111_1.m3u8?key=txiptv
+	四川卫视,http://122.139.201.233:85/tsfile/live/0123_1.m3u8?key=txiptv
+	浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+	
+	
+	
+	
+	
+	
+	
+	🇨🇳中央台(电信),#genre#
+	CCTV1,http://175.167.239.214:9902/tsfile/live/0001_1.m3u8
+	CCTV2,http://175.167.239.214:9902/tsfile/live/0002_1.m3u8
+	CCTV3,http://175.167.239.214:9902/tsfile/live/0003_1.m3u8
+	CCTV4,http://175.167.239.214:9902/tsfile/live/0004_1.m3u8
+	CCTV5,http://175.167.239.214:9902/tsfile/live/0005_1.m3u8
+	CCTV6,http://175.167.239.214:9902/tsfile/live/0006_1.m3u8
+	CCTV7,http://175.167.239.214:9902/tsfile/live/0007_1.m3u8
+	CCTV8,http://175.167.239.214:9902/tsfile/live/0008_1.m3u8
+	CCTV9,http://175.167.239.214:9902/tsfile/live/0009_1.m3u8
+	CCTV10,http://175.167.239.214:9902/tsfile/live/0010_1.m3u8
+	CCTV11,http://175.167.239.214:9902/tsfile/live/0011_1.m3u8
+	CCTV12,http://175.167.239.214:9902/tsfile/live/0012_1.m3u8
+	CCTV13,http://175.167.239.214:9902/tsfile/live/0013_1.m3u8
+	CCTV14,http://175.167.239.214:9902/tsfile/live/0014_1.m3u8
+	CCTV15,http://175.167.239.214:9902/tsfile/live/0015_1.m3u8
+	CCTV16,http://122.139.201.233:85/tsfile/live/0016_2.m3u8?key=txiptv
+	CCTV17,http://122.139.201.233:85/tsfile/live/0017_1.m3u8?key=txiptv
+	
+	🇨🇳中央台(联通),#genre#
+	CCTV1,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003864351.m3u8
+	CCTV2,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870745.m3u8
+	CCTV3,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870746.m3u8
+	CCTV4,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870747.m3u8
+	CCTV5,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870748.m3u8
+	CCTV5+,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870759.m3u8
+	CCTV6,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870749.m3u8
+	CCTV7,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870750.m3u8
+	CCTV8,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870838.m3u8
+	CCTV9,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870752.m3u8
+	CCTV10,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870753.m3u8
+	CCTV11,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870754.m3u8
+	CCTV12,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870755.m3u8
+	CCTV13,http://2.itv.nctv.top:35455/bptv/10000100000000050000000004796248.m3u8
+	CCTV14,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870756.m3u8
+	CCTV15,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870757.m3u8
+	CCTV16,http://2.itv.nctv.top:35455/bptv/10000100000000050000000004972604.m3u8
+	CCTV17,http://2.itv.nctv.top:35455/bptv/10000100000000050000000003870758.m3u8
+	
+	
+	
+	
+	
+	
+	
+	🇨🇳卫视台(咪咕),#genre#
+	江苏卫视,http://goo.bkpcp.top/mg/jsws
+	东方卫视,http://goo.bkpcp.top/mg/dfws
+	陕西卫视,http://goo.bkpcp.top/mg/sxws
+	江西卫视,http://goo.bkpcp.top/mg/jxws
+	湖北卫视,http://goo.bkpcp.top/mg/hubws
+	河南卫视,http://goo.bkpcp.top/mg/hnws
+	东南卫视,http://goo.bkpcp.top/mg/dnws
+	江西卫视,http://goo.bkpcp.top/mg/jxws
+	辽宁卫视,http://goo.bkpcp.top/mg/lnws
+	广东卫视,http://goo.bkpcp.top/mg/gdws
+	浙江卫视,http://goo.bkpcp.top/mg/zjws
+	河南卫视,http://goo.bkpcp.top/mg/hnws
+	吉林卫视,http://goo.bkpcp.top/mg/jlws
+	陕西卫视,http://goo.bkpcp.top/mg/sxws
+	海峡卫视,http://goo.bkpcp.top/mg/hxws
+	宁夏卫视,http://goo.bkpcp.top/mg/nxws
+	云南卫视,http://goo.bkpcp.top/mg/ynws
+	重庆卫视,http://goo.bkpcp.top/mg/cqws
+	内蒙古卫视,http://goo.bkpcp.top/mg/nmws
+	甘肃卫视,http://goo.bkpcp.top/mg/gsws
+	青海卫视,http://goo.bkpcp.top/mg/qhws
+	山东卫视,http://goo.bkpcp.top/mg/sdws
+	广西卫视,http://goo.bkpcp.top/mg/gxws
+	贵州卫视,http://goo.bkpcp.top/mg/gzws
+	新疆卫视,http://goo.bkpcp.top/mg/xjws
+	西藏卫视,http://goo.bkpcp.top/mg/xzws
+	海南卫视,http://goo.bkpcp.top/mg/hinws
+	大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+	广东影视,http://goo.bkpcp.top/mg/gdys
+	上海新闻综合,http://goo.bkpcp.top/mg/shxw
+		上海东方影视,http://goo.bkpcp.top/mg/shys
+	湖北卫视,http://goo.bkpcp.top/mg/hubws
+	陕西卫视,http://goo.bkpcp.top/mg/sxws
+	青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
+	海南卫视,http://goo.bkpcp.top/mg/hinws
+	湖北卫视,http://goo.bkpcp.top/mg/hubws
+	海南卫视,http://goo.bkpcp.top/mg/hinws
+	
+	
+	
+	
 
-
-河南卫视,http://live.nctv.top/KLJHDS/hntv.php?id=hnws
-河南新闻,http://live.nctv.top/KLJHDS/hntv.php?id=hnxw
-河南都市,http://live.nctv.top/KLJHDS/hntv.php?id=hnds
-河南民生,http://live.nctv.top/KLJHDS/hntv.php?id=hnms
-河南电视剧,http://live.nctv.top/KLJHDS/hntv.php?id=hndsj
-河南公共,http://live.nctv.top/KLJHDS/hntv.php?id=hngg
-河南乡村,http://live.nctv.top/KLJHDS/hntv.php?id=hnxc
-河南梨园,http://live.nctv.top/KLJHDS/hntv.php?id=hnly
-文物宝库,http://live.nctv.top/KLJHDS/hntv.php?id=wwbk
-武术世界,http://live.nctv.top/KLJHDS/hntv.php?id=wspd
-睛彩中原,http://live.nctv.top/KLJHDS/hntv.php?id=jczy
-河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8
-河南卫视,http://live.nctv.top/KLJHDS/hntv.php?id=hnws
+🇨🇳河南地方台,#genre#
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南民生,http://1.94.31.214/php/hntv.php?id=hnms
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
@@ -198,40 +156,7 @@ CCTV17,http://122.139.201.233:85/tsfile/live/0017_1.m3u8?key=txiptv
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
 睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
 移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
-
-河南都市,http://live.nctv.top/DYjsklis/hntv.php?id=hnds
-河南民生,http://live.nctv.top/DYjsklis/hntv.php?id=hnms
-河南法治,http://live.nctv.top/DYjsklis/hntv.php?id=hnfz
-河南电视剧,http://live.nctv.top/DYjsklis/hntv.php?id=hndsj
-河南公共,http://live.nctv.top/DYjsklis/hntv.php?id=hngg
-河南乡村,http://live.nctv.top/DYjsklis/hntv.php?id=hnxc
-河南国际,http://live.nctv.top/DYjsklis/hntv.php?id=hngj
-河南梨园,http://live.nctv.top/DYjsklis/hntv.php?id=hnly
-文物宝库,http://live.nctv.top/DYjsklis/hntv.php?id=wwbk
-武术世界,http://live.nctv.top/DYjsklis/hntv.php?id=wspd
-睛彩中原,http://live.nctv.top/DYjsklis/hntv.php?id=jczy
-象视界,http://live.nctv.top/DYjsklis/hntv.php?id=xsj
-国学频道,http://live.nctv.top/DYjsklis/hntv.php?id=gxpd
-
-郑州新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=zz1
-开封新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=kf1
-洛阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=ly1
-平顶山新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=pds1
-安阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=ay1
-鹤壁新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=hb1
-新乡新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=xx1
-焦作新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=jz1
-濮阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=py1
-许昌新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=xc1
-漯河新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=lh1
-三门峡新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=smx1
-南阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=ny1
-商丘新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=sq1
-信阳新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=xy1
-周口新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=zk1
-驻马店新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=zmd1
-济源新闻综合,http://live.nctv.top/DYjsklis/hntv.php?id=jy1
-
+	
 
 
 
