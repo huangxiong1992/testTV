@@ -1,3 +1,94 @@
+央央卫卫0610,#genre#
+CCTV-1 HD,http://goo.bkpcp.top/mg/cctv1
+CCTV-2 HD,http://goo.bkpcp.top/mg/cctv2
+CCTV-3 HD,http://goo.bkpcp.top/mg/cctv3
+CCTV-4 HD,http://goo.bkpcp.top/mg/cctv4
+CCTV-5 HD,http://goo.bkpcp.top/mg/cctv5
+CCTV-5+ HD,http://goo.bkpcp.top/mg/cctv5p
+CCTV-6 HD,http://goo.bkpcp.top/mg/cctv6
+CCTV-7 HD,http://goo.bkpcp.top/mg/cctv7
+CCTV-8 HD,http://goo.bkpcp.top/mg/cctv8
+CCTV-9 HD,http://goo.bkpcp.top/mg/cctv9
+CCTV-10 HD,http://goo.bkpcp.top/mg/cctv10
+CCTV-11 HD,http://goo.bkpcp.top/mg/cctv11
+CCTV-12 HD,http://goo.bkpcp.top/mg/cctv12
+CCTV-13 HD,http://goo.bkpcp.top/mg/cctv13
+CCTV-14 HD,http://goo.bkpcp.top/mg/cctv14
+CCTV-15 HD,http://goo.bkpcp.top/mg/cctv15
+CCTV-17 HD,http://goo.bkpcp.top/mg/cctv17
+广东卫视 HD,http://goo.bkpcp.top/mg/gdws
+江苏卫视 HD,http://goo.bkpcp.top/mg/jsws
+东方卫视 HD,http://goo.bkpcp.top/mg/dfws
+陕西卫视 HD,http://goo.bkpcp.top/mg/sxws
+江西卫视 HD,http://goo.bkpcp.top/mg/jxws
+湖北卫视 HD,http://goo.bkpcp.top/mg/hubws
+河南卫视 HD,http://goo.bkpcp.top/mg/hnws
+东南卫视 HD,http://goo.bkpcp.top/mg/dnws
+江西卫视 HD,http://goo.bkpcp.top/mg/jxws
+辽宁卫视 HD,http://goo.bkpcp.top/mg/lnws
+广东卫视 HD,http://goo.bkpcp.top/mg/gdws
+浙江卫视 HD,http://goo.bkpcp.top/mg/zjws
+河南卫视 HD,http://goo.bkpcp.top/mg/hnws
+吉林卫视 HD,http://goo.bkpcp.top/mg/jlws
+陕西卫视 HD,http://goo.bkpcp.top/mg/sxws
+海峡卫视 HD,http://goo.bkpcp.top/mg/hxws
+宁夏卫视 HD,http://goo.bkpcp.top/mg/nxws
+云南卫视 HD,http://goo.bkpcp.top/mg/ynws
+重庆卫视 HD,http://goo.bkpcp.top/mg/cqws
+内蒙卫视 HD,http://goo.bkpcp.top/mg/nmws
+甘肃卫视 HD,http://goo.bkpcp.top/mg/gsws
+青海卫视 HD,http://goo.bkpcp.top/mg/qhws
+山东卫视 HD,http://goo.bkpcp.top/mg/sdws
+广西卫视 HD,http://goo.bkpcp.top/mg/gxws
+贵州卫视 HD,http://goo.bkpcp.top/mg/gzws
+新疆卫视 HD,http://goo.bkpcp.top/mg/xjws
+西藏卫视 HD,http://goo.bkpcp.top/mg/xzws
+海南卫视 HD,http://goo.bkpcp.top/mg/hinws
+
+
+
+
+
+
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws
+广东影视,http://goo.bkpcp.top/mg/gdys
+上海新闻综合,http://goo.bkpcp.top/mg/shxw
+上海东方影视,http://goo.bkpcp.top/mg/shys
+
+
+SiTV 劲爆体育,http://goo.bkpcp.top/mg/jbty
+SiTV 魅力足球,http://goo.bkpcp.top/mg/mlzq
+SiTV 游戏风云,http://goo.bkpcp.top/mg/yxfy
+SiTV 法治天地,http://goo.bkpcp.top/mg/fztd
+SiTV 乐游,http://goo.bkpcp.top/mg/ly
+
+CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+CHC动作电影,http://goo.bkpcp.top/mg/dzdy
+CCTV发现之旅,http://goo.bkpcp.top/mg/fxzl
+CCTV中学生,http://goo.bkpcp.top/mg/zxs
+CGTN,http://goo.bkpcp.top/mg/cgtn
+CGTN纪录,http://goo.bkpcp.top/mg/cgtnjl
+CCTV西班牙语,http://goo.bkpcp.top/mg/cgtne
+CCTV法语,http://goo.bkpcp.top/mg/cgtnf
+CCTV阿拉伯语,http://goo.bkpcp.top/mg/cgtna
+CCTV俄语,http://goo.bkpcp.top/mg/cgtnr
+CETV 1 中国教育,http://goo.bkpcp.top/mg/cetv1
+CETV 2 中国教育,http://goo.bkpcp.top/mg/cetv2
+CETV 4 中国教育,http://goo.bkpcp.top/mg/cetv4
+
+
+欢笑剧场,http://goo.bkpcp.top/mg/hxjc
+江苏城市频道,http://goo.bkpcp.top/mg/jscs
+江苏国际,http://goo.bkpcp.top/mg/jsgj
+江苏教育,http://goo.bkpcp.top/mg/jsjy
+江苏影视,http://goo.bkpcp.top/mg/jsys
+江苏综艺,http://goo.bkpcp.top/mg/jszy
+老故事,http://goo.bkpcp.top/mg/lgs
+发现之旅,http://goo.bkpcp.top/mg/fxzl
+中学生,http://goo.bkpcp.top/mg/zxs
+
+
+
 央卫浙江,#genre#
 睛彩竞技高码,http://39.134.184.100:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/1/index.m3u8?IAS
 睛彩篮球高码,http://39.134.184.100:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8?IAS
