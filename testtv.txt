@@ -1,91 +1,97 @@
-央央卫卫0610,#genre#
-CCTV-1 HD,http://goo.bkpcp.top/mg/cctv1
-CCTV-2 HD,http://goo.bkpcp.top/mg/cctv2
-CCTV-3 HD,http://goo.bkpcp.top/mg/cctv3
-CCTV-4 HD,http://goo.bkpcp.top/mg/cctv4
-CCTV-5 HD,http://goo.bkpcp.top/mg/cctv5
-CCTV-5+ HD,http://goo.bkpcp.top/mg/cctv5p
-CCTV-6 HD,http://goo.bkpcp.top/mg/cctv6
-CCTV-7 HD,http://goo.bkpcp.top/mg/cctv7
-CCTV-8 HD,http://goo.bkpcp.top/mg/cctv8
-CCTV-9 HD,http://goo.bkpcp.top/mg/cctv9
-CCTV-10 HD,http://goo.bkpcp.top/mg/cctv10
-CCTV-11 HD,http://goo.bkpcp.top/mg/cctv11
-CCTV-12 HD,http://goo.bkpcp.top/mg/cctv12
-CCTV-13 HD,http://goo.bkpcp.top/mg/cctv13
-CCTV-14 HD,http://goo.bkpcp.top/mg/cctv14
-CCTV-15 HD,http://goo.bkpcp.top/mg/cctv15
-CCTV-17 HD,http://goo.bkpcp.top/mg/cctv17
-广东卫视 HD,http://goo.bkpcp.top/mg/gdws
-江苏卫视 HD,http://goo.bkpcp.top/mg/jsws
-东方卫视 HD,http://goo.bkpcp.top/mg/dfws
-陕西卫视 HD,http://goo.bkpcp.top/mg/sxws
-江西卫视 HD,http://goo.bkpcp.top/mg/jxws
-湖北卫视 HD,http://goo.bkpcp.top/mg/hubws
-河南卫视 HD,http://goo.bkpcp.top/mg/hnws
-东南卫视 HD,http://goo.bkpcp.top/mg/dnws
-江西卫视 HD,http://goo.bkpcp.top/mg/jxws
-辽宁卫视 HD,http://goo.bkpcp.top/mg/lnws
-广东卫视 HD,http://goo.bkpcp.top/mg/gdws
-浙江卫视 HD,http://goo.bkpcp.top/mg/zjws
-河南卫视 HD,http://goo.bkpcp.top/mg/hnws
-吉林卫视 HD,http://goo.bkpcp.top/mg/jlws
-陕西卫视 HD,http://goo.bkpcp.top/mg/sxws
-海峡卫视 HD,http://goo.bkpcp.top/mg/hxws
-宁夏卫视 HD,http://goo.bkpcp.top/mg/nxws
-云南卫视 HD,http://goo.bkpcp.top/mg/ynws
-重庆卫视 HD,http://goo.bkpcp.top/mg/cqws
-内蒙卫视 HD,http://goo.bkpcp.top/mg/nmws
-甘肃卫视 HD,http://goo.bkpcp.top/mg/gsws
-青海卫视 HD,http://goo.bkpcp.top/mg/qhws
-山东卫视 HD,http://goo.bkpcp.top/mg/sdws
-广西卫视 HD,http://goo.bkpcp.top/mg/gxws
-贵州卫视 HD,http://goo.bkpcp.top/mg/gzws
-新疆卫视 HD,http://goo.bkpcp.top/mg/xjws
-西藏卫视 HD,http://goo.bkpcp.top/mg/xzws
-海南卫视 HD,http://goo.bkpcp.top/mg/hinws
+央卫视一,#genre#
+CCTV-01 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
+CCTV-02 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
+CCTV-03 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
+CCTV-04 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
+CCTV-05 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
+CCTV-5+ HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
+CCTV-06 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
+CCTV-07 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV7
+CCTV-08 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
+CCTV-09 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
+CCTV-10 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
+CCTV-11标码,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV11
+CCTV-12 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
+CCTV-13标码,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV13
+CCTV-14 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+CCTV-15 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
+CCTV-16 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+CCTV-17 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
+北京卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
+东方卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
+浙江卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+江苏卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
+湖南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
+广东卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
+深圳卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
+天津卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
+安徽卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
+山东卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
+辽宁卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
+河北卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
+河南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=河南卫视
+江西卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=江西卫视
+四川卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
+重庆卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+贵州卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
+湖北卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
+广西卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
+东南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
+海南卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
+青海卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
+吉林卫视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
+黑龙江视 HD,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
+
+
+
+凤凰中文 HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
+凤凰香港 HD,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
+动作电影 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+家庭影院 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+影迷电影 HD,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
+
+
+
+
+央卫视二,#genre#
+CCTV-01 HD,http://123.149.237.171:9003//hls/1/index.m3u8
+CCTV-02 HD,http://123.149.237.171:9003//hls/2/index.m3u8
+CCTV-03 HD,http://123.149.237.171:9003//hls/3/index.m3u8
+CCTV-04 HD,http://123.149.237.171:9003//hls/4/index.m3u8
+CCTV-05 HD,http://123.149.237.171:9003//hls/5/index.m3u8
+CCTV-06 HD,http://123.149.237.171:9003//hls/6/index.m3u8
+CCTV-07 HD,http://123.149.237.171:9003//hls/7/index.m3u8
+CCTV-08 HD,http://123.149.237.171:9003//hls/8/index.m3u8
+CCTV-09 HD,http://123.149.237.171:9003//hls/9/index.m3u8
+CCTV-10 HD,http://123.149.237.171:9003//hls/10/index.m3u8
+CCTV-11 HD,http://123.149.237.171:9003//hls/11/index.m3u8
+CCTV-12 HD,http://123.149.237.171:9003//hls/12/index.m3u8
+CCTV-13 HD,http://123.149.237.171:9003//hls/13/index.m3u8
+CCTV-14 HD,http://123.149.237.171:9003//hls/14/index.m3u8
+北京卫视 HD,http://123.149.237.171:9003//hls/20/index.m3u8
+东方卫视 HD,http://123.149.237.171:9003//hls/21/index.m3u8
+浙江卫视 HD,http://123.149.237.171:9003//hls/19/index.m3u8
+江苏卫视 HD,http://123.149.237.171:9003//hls/18/index.m3u8
+湖南卫视 HD,http://123.149.237.171:9003//hls/17/index.m3u8
+深圳卫视 HD,http://123.149.237.171:9003//hls/24/index.m3u8
+安徽卫视 HD,http://123.149.237.171:9003//hls/23/index.m3u8
+山东卫视 HD,http://123.149.237.171:9003//hls/22/index.m3u8
+河南卫视 HD,http://123.149.237.171:9003//hls/15/index.m3u8
+
+CCTV-13 HD,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
+CCTV-13 HD,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+浙江卫视 HD,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+兵团卫视 HD,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+三沙卫视 HD,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=c509d0ea1747156492
 
 
 
 
 
 
-大湾区卫视,http://goo.bkpcp.top/mg/dwqws
-广东影视,http://goo.bkpcp.top/mg/gdys
-上海新闻综合,http://goo.bkpcp.top/mg/shxw
-上海东方影视,http://goo.bkpcp.top/mg/shys
 
 
-SiTV 劲爆体育,http://goo.bkpcp.top/mg/jbty
-SiTV 魅力足球,http://goo.bkpcp.top/mg/mlzq
-SiTV 游戏风云,http://goo.bkpcp.top/mg/yxfy
-SiTV 法治天地,http://goo.bkpcp.top/mg/fztd
-SiTV 乐游,http://goo.bkpcp.top/mg/ly
-
-CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
-CHC动作电影,http://goo.bkpcp.top/mg/dzdy
-CCTV发现之旅,http://goo.bkpcp.top/mg/fxzl
-CCTV中学生,http://goo.bkpcp.top/mg/zxs
-CGTN,http://goo.bkpcp.top/mg/cgtn
-CGTN纪录,http://goo.bkpcp.top/mg/cgtnjl
-CCTV西班牙语,http://goo.bkpcp.top/mg/cgtne
-CCTV法语,http://goo.bkpcp.top/mg/cgtnf
-CCTV阿拉伯语,http://goo.bkpcp.top/mg/cgtna
-CCTV俄语,http://goo.bkpcp.top/mg/cgtnr
-CETV 1 中国教育,http://goo.bkpcp.top/mg/cetv1
-CETV 2 中国教育,http://goo.bkpcp.top/mg/cetv2
-CETV 4 中国教育,http://goo.bkpcp.top/mg/cetv4
-
-
-欢笑剧场,http://goo.bkpcp.top/mg/hxjc
-江苏城市频道,http://goo.bkpcp.top/mg/jscs
-江苏国际,http://goo.bkpcp.top/mg/jsgj
-江苏教育,http://goo.bkpcp.top/mg/jsjy
-江苏影视,http://goo.bkpcp.top/mg/jsys
-江苏综艺,http://goo.bkpcp.top/mg/jszy
-老故事,http://goo.bkpcp.top/mg/lgs
-发现之旅,http://goo.bkpcp.top/mg/fxzl
-中学生,http://goo.bkpcp.top/mg/zxs
 
 
 
