@@ -2,129 +2,9 @@
 
 
 
-经典轮播,#genre#
-
-周星驰1,http://103.193.151.146/huya.php?id=11342412
-周星驰2,http://103.193.151.146/huya.php?id=11336587
-李连杰,http://103.193.151.146/huya.php?id=11342390
-甄子丹,http://103.193.151.146/huya.php?id=11352935
-林正英,http://103.193.151.146/huya.php?id=11342421
-周润发,http://103.193.151.146/huya.php?id=11342387
-成龙,http://103.193.151.146/huya.php?id=11342386
-王晶,http://103.193.151.146/huya.php?id=11602058
-沈腾,http://103.193.151.146/huya.php?id=11601968
-黄渤,http://103.193.151.146/huya.php?id=11352876
-强森,http://103.193.151.146/huya.php?id=21059581
-洪金宝,http://103.193.151.146/huya.php?id=11279251
-梁家辉,http://103.193.151.146/huya.php?id=11342429
-刘德华,http://103.193.151.146/huya.php?id=11342424
-斯坦森,http://103.193.151.146/huya.php?id=21059588
-许冠英,http://103.193.151.146/huya.php?id=11601972
-五福星,http://103.193.151.146/huya.php?id=11282233
-邱淑贞,http://103.193.151.146/huya.php?id=11352949
-古天乐,http://103.193.151.146/huya.php?id=11602041
-徐克,http://103.193.151.146/huya.php?id=11352909
-冯小刚,http://103.193.151.146/huya.php?id=11352906
-漫威,http://103.193.151.146/huya.php?id=11602034
-宇宙,http://103.193.151.146/huya.php?id=11342428
-怪兽,http://103.193.151.146/huya.php?id=21059577
-武侠,http://103.193.151.146/huya.php?id=11342427
-警匪,http://103.193.151.146/huya.php?id=11352886
-罪犯,http://103.193.151.146/huya.php?id=11352962
-枪战,http://103.193.151.146/huya.php?id=21059579
-海盗,http://103.193.151.146/huya.php?id=21059595
-赛车,http://103.193.151.146/huya.php?id=11279247
-推荐,http://103.193.151.146/huya.php?id=11602041
-救援,http://103.193.151.146/huya.php?id=21059594
-热血,http://103.193.151.146/huya.php?id=11352934
-盗墓,http://103.193.151.146/huya.php?id=21059552
-贺岁,http://103.193.151.146/huya.php?id=11601971
-玄幻,http://103.193.151.146/huya.php?id=11342414
-谍战,http://103.193.151.146/huya.php?id=21059585
-战争,http://103.193.151.146/huya.php?id=21059592
-喜剧,http://103.193.151.146/huya.php?id=11352877
-港片,http://103.193.151.146/huya.php?id=11602043
-国产,http://103.193.151.146/huya.php?id=11352973
-经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-电影_小鬼头,http://103.193.151.146/huya.php?id=11352963
-电影_八点档,http://103.193.151.146/huya.php?id=880261
-电影_蜘蛛侠,http://103.193.151.146/huya.php?id=21059599
-电影_贺岁片,http://103.193.151.146/huya.php?id=11601986
-电影_功夫片,http://103.193.151.146/huya.php?id=11352941
-电影_黑帮片,http://103.193.151.146/huya.php?id=11336719
-电影_丧尸片,http://103.193.151.146/huya.php?id=21059578
-电影_灾难片,http://103.193.151.146/huya.php?id=11602075
-电影_谍战片,http://103.193.151.146/huya.php?id=21059587
-电影_战争片,http://103.193.151.146/huya.php?id=21059574
-电影_犯罪片,http://103.193.151.146/huya.php?id=11352974
-电影_古装片,http://103.193.151.146/huya.php?id=11336590
-电影_高分动作,http://103.193.151.146/huya.php?id=11352884
-电影_动作电影,http://103.193.151.146/huya.php?id=11602077
-电影_搞笑喜剧,http://103.193.151.146/huya.php?id=11342423
-电影_喜剧专场,http://103.193.151.146/huya.php?id=11602044
-电影_欢笑影院,http://103.193.151.146/huya.php?id=11352894
-电影_不挤影院,http://103.193.151.146/huya.php?id=11352897
-电影_国产悬疑,http://103.193.151.146/huya.php?id=11342395
-电影_快意江湖,http://103.193.151.146/huya.php?id=11342435
-电影_黑帮斗争,http://103.193.151.146/huya.php?id=11342419
-电影_嫣然影厅,http://103.193.151.146/huya.php?id=11601977
-电影_许氏三杰,http://103.193.151.146/huya.php?id=11602033
-电影_经典港片,http://103.193.151.146/huya.php?id=11352965
-电影_镖行天下,http://103.193.151.146/huya.php?id=11352969
-电影_高能反转,http://103.193.151.146/huya.php?id=11352887
-电影_喜乐影院,http://103.193.151.146/huya.php?id=21059580
-电影_自由影厅,http://103.193.151.146/huya.php?id=11601981
-电影_搞笑恐怖,http://103.193.151.146/huya.php?id=11601960
-电影_死神来了,http://103.193.151.146/huya.php?id=11352903
-电影_变形金刚,http://103.193.151.146/huya.php?id=21059596
-电影_怪兽系列,http://103.193.151.146/huya.php?id=21059554
 
 
 
-
-周星驰1,https://fmbox.cc/huya.php?id=11342412
-周星驰2,https://fmbox.cc/huya.php?id=11336587
-李连杰,https://fmbox.cc/huya.php?id=11342390
-洪金宝,https://fmbox.cc/huya.php?id=11279251
-梁家辉,https://fmbox.cc/huya.php?id=11342429
-许冠英,https://fmbox.cc/huya.php?id=11601972
-刘德华,https://fmbox.cc/huya.php?id=11342424
-斯坦森,https://fmbox.cc/huya.php?id=21059588
-林正英,https://fmbox.cc/huya.php?id=11342421
-周润发,https://fmbox.cc/huya.php?id=11342387
-成龙,https://fmbox.cc/huya.php?id=11342386
-明星大片,https://fmbox.cc/huya.php?id=11602058
-沈腾,https://fmbox.cc/huya.php?id=11601968
-黄渤,https://fmbox.cc/huya.php?id=11352876
-强森,https://fmbox.cc/huya.php?id=21059581
-漫威,https://fmbox.cc/huya.php?id=11602034
-宇宙,https://fmbox.cc/huya.php?id=11342428
-怪兽,https://fmbox.cc/huya.php?id=21059577
-陆小凤,https://fmbox.cc/huya.php?id=11342427
-警匪,https://fmbox.cc/huya.php?id=11352886
-罪犯,https://fmbox.cc/huya.php?id=11352962
-枪战,https://fmbox.cc/huya.php?id=21059579
-赛车,https://fmbox.cc/huya.php?id=11279247
-推荐,https://fmbox.cc/huya.php?id=11602041
-热血,https://fmbox.cc/huya.php?id=11352934
-盗墓,https://fmbox.cc/huya.php?id=21059552
-贺岁,https://fmbox.cc/huya.php?id=11601971
-玄幻,https://fmbox.cc/huya.php?id=11342414
-谍战,https://fmbox.cc/huya.php?id=21059585
-喜剧,https://fmbox.cc/huya.php?id=11352877
-港片,https://fmbox.cc/huya.php?id=11602043
-国产,https://fmbox.cc/huya.php?id=11352973
-搞笑喜剧,https://fmbox.cc/huya.php?id=11342423
-国产悬疑,https://fmbox.cc/huya.php?id=11342395
-快意江湖,https://fmbox.cc/huya.php?id=11342435
-黑帮斗争,https://fmbox.cc/huya.php?id=11342419
-斯坦森,http://cdn.jdshipin.com:8880/huya.php?id=21059588
-
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
-JJ斗地主,http://i.880824.xyz:35455/douyu/488743
-
- 
 
 
 
@@ -537,36 +417,6 @@ oh买尬-宋小宝柳岩,https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h2
 
 
 测试(一)_888,#genre#
-海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
-1989香港小姐竞选,http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
-
-凤凰1,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰2,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-凤凰1,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰2,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-翡翠台,http://198.16.100.186:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-TVBS News,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
-大爱,http://50.7.234.10:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
-体育2,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-
-
-
-
-
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星光华剧台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-
-人间卫視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -579,7 +429,14 @@ Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 华文四套,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 华文五套,https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 华文七套,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+人间卫視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 法时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
@@ -598,29 +455,16 @@ Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 
 
 番薯(联),http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 TVB翡翠台(联),http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 动物星球(联),http://61.221.215.25:8800/hls/57/index.m3u8#http://ali.hlspull.yximgs.com/live/HI3Nimuijy28jba3mAnUZHfqVQ50NnH8.flv
-49号频道,http://61.221.215.25:8800/hls/49/index.m3u8
 
 
 
 
 
 
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-翡翠4k,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-明珠,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com:8880/jydx.php?id=37
-31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+
 
 
 
@@ -633,40 +477,9 @@ TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 
 
 测试(二)_999,#genre#
-
-
-
-
-
-
-
-
-
-直播 720,http://cdn.adultiptv.net/livecams.m3u8
-合集 720,http://cdn.adultiptv.net/compilation.m3u8
-爆乳 720,http://cdn.adultiptv.net/bigtits.m3u8
-金发 720,http://cdn.adultiptv.net/blonde.m3u8
-褐发 720,http://cdn.adultiptv.net/brunette.m3u8
-绿帽 720,http://cdn.adultiptv.net/cuckold.m3u8
-恋物 720,http://cdn.adultiptv.net/fetish.m3u8
-群交 720,http://cdn.adultiptv.net/gangbang.m3u8
-男同 720,http://cdn.adultiptv.net/gay.m3u8
-硬核 720,http://cdn.adultiptv.net/hardcore.m3u8
-异种 720,http://cdn.adultiptv.net/interracial.m3u8
-拉丁 720,http://cdn.adultiptv.net/latina.m3u8
-女同 720,http://cdn.adultiptv.net/lesbian.m3u8
-少妇 720,http://cdn.adultiptv.net/milf.m3u8
-色星 720,http://cdn.adultiptv.net/pornstar.m3u8
-第一视角 720,http://cdn.adultiptv.net/pov.m3u8
-粗暴 720,http://cdn.adultiptv.net/rough.m3u8
-俄罗斯 720,http://cdn.adultiptv.net/russian.m3u8
-少女 720,http://cdn.adultiptv.net/teen.m3u8
-三人 720,http://cdn.adultiptv.net/threesome.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+1台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+2台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+3台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
 一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
 k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
