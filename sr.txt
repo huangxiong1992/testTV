@@ -3,9 +3,8 @@
 
 中央14,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
+上海哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
+
 
 
 
@@ -15,7 +14,10 @@
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 葫芦兄弟,http://jsmov2.a.yximgs.com/bs3/video-hls/5223049779458999093_hlsb.m3u8 
 倒霉熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-熊熊乐园,#genre# 
+
+
+
+熊熊乐园|合集,#genre# 
 熊熊乐园|01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b333914bfe2b49d793d41f3233505f5f/1200.m3u8
 熊熊乐园|02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7d35b256e4794918837e184d35f34492/1200.m3u8
 熊熊乐园|03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/8da51eedd80c4c0b98765b20d1729d42/1200.m3u8
@@ -70,7 +72,9 @@
 熊熊乐园|52,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/23d304c091184090b3b6ceef8822a273/1200.m3u8
 
 
-猪猪侠剧,#genre# 
+
+
+猪猪侠|合集,#genre# 
 猪猪侠剧|01,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/284947a4fa1f45dbafc2a4d54387cc7e/1200.m3u8
 猪猪侠剧|02,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/a4b74cdcdee64c70a9c9f7f4c3619aeb/1200.m3u8
 猪猪侠剧|03,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/73a90ed2920b47589463bac9802bdf43/1200.m3u8
@@ -127,7 +131,10 @@
 猪猪侠剧|54,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/01fa590200a942c182244eb0cbda1a08/1200.m3u8
 猪猪侠剧|55,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/30b5fadd7cf5428c87a3c00bfe766c3c/1200.m3u8
 猪猪侠剧|56,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d33d57c10acd486a9a38572c82d61b83/1200.m3u8
-动画乐翻天,#genre# 
+
+
+
+动画乐翻天|合集,#genre# 
 动画乐翻天|254,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/9ab55ca0a3444f32a4d98a2aa6ea0423/1200.m3u8
 动画乐翻天|255,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0acf9842317c4f638f999d1e4bbf3cf1/1200.m3u8
 动画乐翻天|256,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7a694da8ab7e425bac21bbf2e5dd42ce/1200.m3u8
@@ -174,80 +181,13 @@
 
 
 
-新大头儿子小头爸爸,#genre#
+新大头儿子|影院大片,#genre#
 电影1,https://vip1.lz-cdn1.com/20220430/3780_744e8f21/index.m3u8
 电影2,https://vip1.lz-cdn1.com/20220317/254_9b5c923f/index.m3u8
 电影3,https://cdn7.ryplay7.com/20241124/6998_60f1b1ed/index.m3u8
 
-动画大世界#genre#
-熊出没之☆逆转时空,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/1d862fa4b4ce4527a01e45e1cd6c3e01/850.m3u8
-熊出没之☆重返地球,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/64805181bf0d479b8ba8576c47102a92/850.m3u8
-熊出没之☆原始时代,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/dac6ff3169354000b45431f8b24c5dc0/850.m3u8
-大头儿子☆一日成才,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/777631d924444628b11419eff81f2405/850.m3u8
-大头儿子☆俄罗斯奇遇记,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/9f3bece393c245628e648d96f029b6fd/850.m3u8
-大头儿子☆我的外形朋友,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/a52ccea5ba824dfb8ae44ec717236af2/850.m3u8
-大头儿子☆完美爸爸,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c40bb2fac7904ea689ac65a9e5bdd08f/850.m3u8
 
 
-新大头儿子·沿着邮路看中国,#genre#
-1,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/950d41346dcd46ccabc8363f6ccf9c2e/850.m3u8
-2,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/269344da5050414b9478896f59d72e3e/850.m3u8
-3,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/32cd84bbbca8407c926a72364a045ca3/850.m3u8
-4,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/ab22ff4b6fdd435bbdd0c0bedb253b9b/850.m3u8
-5,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/dedfd9d7c3914e6d8ec02294c6258f93/850.m3u8
-6,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/b5464868423245e9a882c5bcbd2af805/850.m3u8
-
-新大头儿子☆欢乐亲自营,#genre#
-1,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/0968c54792ed4b82bec9ad511dcd2591/850.m3u8
-2,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/b0cbd7411e6c41838afc98bb8a2e5cc4/850.m3u8
-3,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/7db2f616bf88403b9aadfba4885130b7/850.m3u8
-4,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/0ca67b360c8e488fa1fb6a33162780ea/850.m3u8
-5,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/898930b7a0434e1786b4835a3a29e2bd/850.m3u8
-6,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/79aacedf36dd4c9e899f9769ba1708a0/850.m3u8
-7,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/4d2cc6e359d54abbba0d2e834fd187df/850.m3u8
-8,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/4763275d722440d89aa3b4042256b28e/850.m3u8
-9,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/36313ae3680f4d63ab243def64cb98b1/850.m3u8
-10,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/08f1660971334671af4d91b3d3777d8e/850.m3u8
-11,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/debc27ef896d4493be06fe93438305d7/850.m3u8
-12,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/2127d8bd80614ea8a8219b1afa51cd26/850.m3u8
-13,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/d575442accc7477b8238a634b38b30a5/850.m3u8
-14,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/46afac38726347b4a0e0b6f88e580224/850.m3u8
-15,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/63f63245a17a4344894abd8798ffbf3b/850.m3u8
-16,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c47f0c94180f41fab424f2367fee29dc/850.m3u8
-17,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/5f986484cde5408486cb52234ff0df5a/850.m3u8
-18,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/cdfec072514749679e546398fdf3d930/850.m3u8
-19,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/223553409cc0474fb7d1b886b443c445/850.m3u8
-20,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/969d5049e8e542148194c8c43286347f/850.m3u8
-21,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/e0e6fbe1080747a5b122c50ae3cc0bb8/850.m3u8
-22,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/ca83f873321843f284cdf426e142f91e/850.m3u8
-23,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/f33512ec0fad43d99cfa96cc42059eca/850.m3u8
-24,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/fd2919074789447e8884980a26afc9b8/850.m3u8
-25,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/11d7f9358669431baf457d8ec95cc417/850.m3u8
-26,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/abd4c2b67ee8449a8d2d4e111fdf9844/850.m3u8
-27,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/a35fdf683a1f40e5845b9316b9e15900/850.m3u8
-28,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/6aeb7021dee54e08a1155898a0a44e71/850.m3u8
-29,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/6c2fba9fe2a74b4092bce81206a694a2/850.m3u8
-30,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/17af4b8143b64d0691f50269e8987957/850.m3u8
-31,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/a922a3d30bcd43ae9f7ae6fc6e5b4e55/850.m3u8
-32,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/8f8a04a1fd004e7b99cbe86100946945/850.m3u8
-33,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/7ce662ddd1a146d493abe9345d56c647/850.m3u8
-34,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/1b6c6d09b2ff492fbb5af76dafa3816d/850.m3u8
-35,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/2100064649f344d9949de9d46193bcca/850.m3u8
-36,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/ef83ff1a7e004c21b47a855279f8f125/850.m3u8
-37,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/5757dcf62102413198b61d29ea5ce4fc/850.m3u8
-38,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/d3f30fe36f2c4ef7b2a0304b2b6e50d0/850.m3u8
-39,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/ec23c193dfe64803910e20714cee89c4/850.m3u8
-40,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/00bcfdc4dcee430ea6315da450c7abab/850.m3u8
-41,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/fed70bc6b94a4b65b51dc7fdae060dc8/850.m3u8
-42,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/7e082d37fdba4ccd879ee951b1c3c9d1/850.m3u8
-43,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/0cbc46973ef242759d01380b3556d5a3/850.m3u8
-44,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/5c28589ccd134149a0f3eb5814ca688d/850.m3u8
-45,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/124a7be6a2d5415c9ff4c41d1d96300c/850.m3u8
-46,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/f1161f1cd14240d8919ad6146e8dfdc0/850.m3u8
-47,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/278bf5a3810248acb40c3bd8810fd31f/850.m3u8
-48,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/dd51c85f2af540faadcf627ab4c9e541/850.m3u8
-49,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/d773f20a36014738a106d7e2b20efa20/850.m3u8
-50,https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/ed3e786497814839be7703bed2f49ed2/850.m3u8
 
 
 
