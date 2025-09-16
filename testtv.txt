@@ -16,7 +16,7 @@ CCTV-14 HD,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180
 
 
 3D体验,#genre#
-3D4K高清国之重器,https://v3-dy.ixigua.com/e3630a05c1304c8be7947a58fbd7bf43/68c4ffef/video/tos/cn/tos-cn-ve-15/oYmREMDeNAOXZ6BiAJgiBVF5If8xzYiBcQc8qA/?a=2011&ch=0&cr=0&dr=0&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1657&bt=1657&cs=0&ds=4&ft=aT_7TQQqUYqfJEZPo0OW_QYaUqiXNaRcRVJEo~1cdbPD-Ipz&mime_type=video_mp4&qs=0&rc=Zmk5Ojo6Njw2Mzc5NGhkaEBpMzQ5cXY5cmZodDMzNGkzM0BiM2MyLzM0NS0xNDVjLV5gYSMzMTNgMmRjcGlgLS1kLTBzcw%3D%3D&btag=80000e00020000&dy_q=1757737394&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20250913122314FBC7DDB3A35B3655AD3C
+3D1,https://ghfast.top/https://raw.githubusercontent.com/huangxiong1992/mp4/refs/heads/main/3D1.mp4
 3D4K高清蜘蛛侠,https://v26-default.365yg.com/72dfbf8eeb99f5a242e6c0b5be9a7e53/68c50168/video/tos/cn/tos-cn-ve-15c001-alinc2/ba29351ae58449578f46aadf86070550/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=2715&bt=2715&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiXB3RcRVJEiK4rKbPD-Ipz&mime_type=video_mp4&qs=0&rc=ZWY7aDQ3Njk4PDZkPGVlZkBpM3c7bDo6ZjxyZjMzNGkzM0AyXjMwX15jXmAxYjUuYjRfYSNsbGNpcjRfXi9gLS1kLWFzcw%3D%3D&btag=80000e00028000&dy_q=1757737719&l=20250913122839DC506C47EFB9C06ACFB0
 3D4K高清漫威合集,https://v9-default.365yg.com/994c4334fdbd72c0b672e27a9ad1ec92/68c5020a/video/tos/cn/tos-cn-ve-15c001-alinc2/b4dfe0c3a19f4701b9c1728259de276f/?a=2011&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1793&bt=1793&cs=0&ds=3&ft=aT_7TQQqUuIf_oZmo0OW_QYaUqiX2bRcRVJEiK4rKbPD-Ipz&mime_type=video_mp4&qs=0&rc=M2k7ZzppNDRpOTpmOjhpZUBpamptbDM6ZnU4ZjMzNGkzM0AzLWJjMTMzXi0xYWMyXi9hYSNgZGUycjRnNjJgLS1kLWFzcw%3D%3D&btag=80000e00028000&dy_q=1757737868&l=20250913123108D91034E695A66B5457E7
 3D4K高清复联精彩片段,https://v26-colds.douyinvod.com/75139b631e35f0cb4c7fbed92751e557/68c50256/video/tos/cn/tos-cn-ve-15c001-alinc2/9bc28286aa704d188afd613519fd72ab/?a=1128&ch=0&cr=0&dr=0&cd=0%7C0%7C0%7C0&cv=1&br=2487&bt=2487&cs=0&ds=3&ft=A-HXgxqxxouCT.g1PD12lMgxpIuobLLYdXdU_4KoNXOJNv7TGW&mime_type=video_mp4&qs=0&rc=Mzk6aDo1OmVoNDQ5OTplPEBpanhqZWQ6ZjY4ZjMzNGkzM0AuNjBjLS9iNl8xYTAwLy0vYSNuMjJqcjRfZy9gLS1kLWFzcw%3D%3D&btag=80010e000a8000&cquery=100y&dy_q=1757737986&l=20250913123306565403041230BAEE705A
@@ -4044,6 +4044,7 @@ PLAYFM,https://lhttp-hw.qtfm.cn/live/20035/64k.mp3
 3D09,https://vd2.bdstatic.com/mda-ki2cvyhz79rw40wg/v1-cae/sc/mda-ki2cvyhz79rw40wg.mp4
 3D10,https://vd3.bdstatic.com/mda-kksk814vwc1m06av/sc/mda-kksk814vwc1m06av.mp4
 3D11,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/1080p/cae_h264_delogo/1649341416696755483/mda-nd6k8tnavw6sj0a5.mp4
+
 
 
 
